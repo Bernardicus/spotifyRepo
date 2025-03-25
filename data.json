@@ -1,0 +1,9 @@
+{
+    "title": "Sample Data",
+    "description": "This is an example of loading a JSON file into an HTML page.",
+    "items": [
+        "Item 1",
+        "Item 2",
+        "Item 3"
+    ]
+}

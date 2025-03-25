@@ -1,1 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Load JSON Example</title>
+</head>
+<body>
+    <h1>Information from JSON File</h1>
+    <div id="content">
+        <!-- Content will be loaded here -->
+    </div>
 
+    <script>
+        // Function to fetch and display the data from the JSON file
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                const contentDiv = document.getElementById('content');
+                contentDiv.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+            })
+            .catch(error => {
+                console.error('Error loading the JSON file:', error);
+                document.getElementById('content').innerHTML = 'Failed to load the data.';
+            });
+    </script>
+</body>
+</html>
