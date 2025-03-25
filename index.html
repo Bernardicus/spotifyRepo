@@ -3,21 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Load JSON Example</title>
+    <title>Song List</title>
 </head>
 <body>
-    <h1>Information from JSON File</h1>
+    <h1>Song List</h1>
     <div id="content">
-        <!-- Content will be loaded here -->
+        <!-- Songs will be displayed here -->
     </div>
 
     <script>
-        // Function to fetch and display the data from the JSON file
-        fetch('data.json')
+        // Fetch the JSON file and process it
+        fetch('songs.json')
             .then(response => response.json())
             .then(data => {
                 const contentDiv = document.getElementById('content');
-                contentDiv.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+                data.forEach(song => {
+                    const songDiv = document.createElement('div');
+                    songDiv.innerHTML = `
+                        <h2>${song.song_name}</h2>
+                        <img src="${song.album_cover}" alt="${song.song_name} album cover" width="100">
+                        <p><a href="${song.song_link}" target="_blank">Listen to the song</a></p>
+                    `;
+                    contentDiv.appendChild(songDiv);
+                });
             })
             .catch(error => {
                 console.error('Error loading the JSON file:', error);
