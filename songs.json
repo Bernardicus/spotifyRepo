@@ -1,502 +1,3362 @@
 [
     {
+        "song_name": "A Tenth of Myself",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27331efc32152d3ce3afdf4f052",
+        "song_link": "https://open.spotify.com/track/4SgoOwkwHWfomBrDZXj3aJ?si=36be1f7d4ef74f00"
+    },
+    {
+        "song_name": "Darkness - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/2ekPnzS2LZhzmTKvJfxKzU?si=32a1205a14984cfb"
+    },
+    {
+        "song_name": "\u50d5\u306e\u8a3c",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730f7b97667fead476899f5a3b",
+        "song_link": "https://open.spotify.com/track/77I1R01ZphIKsRdf7AaLtj?si=9836254acd054261"
+    },
+    {
+        "song_name": "Light the Fire Up in the Night \u201dMAYONAKA\u201d",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273af0f85acacec855d3b492e8e",
+        "song_link": "https://open.spotify.com/track/2k52WhBPTDv0I2ROMdiS14?si=46a8e57f293c42de"
+    },
+    {
+        "song_name": "Night Drive",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273aaf8c068ffe217db825a1945",
+        "song_link": "https://open.spotify.com/track/5nB0zhMAdBf6vY9RxibRjI?si=69d84e172f954584"
+    },
+    {
+        "song_name": "MAZE OF LIFE",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273af0f85acacec855d3b492e8e",
+        "song_link": "https://open.spotify.com/track/0Jee6zWV8GCO41Aemjhu3b?si=cf2ad05f01784e3a"
+    },
+    {
+        "song_name": "Let Me Be With You",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736ccb362e8e30b8a214b65be7",
+        "song_link": "https://open.spotify.com/track/4UBt00S6TNsKwgfxMcfNal?si=ffa62bf3c26f4727"
+    },
+    {
+        "song_name": "Fate is In Our Hands",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733f5976afd6e3b4a47e4d49ec",
+        "song_link": "https://open.spotify.com/track/4MlUghAcRBDhRxTOKEkQBk?si=8cb29d9dea574633"
+    },
+    {
+        "song_name": "BREAK IN TO BREAK OUT",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27359b7ff72136410571b0bc6ba",
+        "song_link": "https://open.spotify.com/track/2J4tG0fWw1J8BU84VIKanY?si=6c72773c193a49d8"
+    },
+    {
+        "song_name": "Twister - Animation OP ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733353fb5d79d6bfb8464386b8",
+        "song_link": "https://open.spotify.com/track/1bMuYyDHTsDlaexuPAh0wj?si=8bd922269e134ad1"
+    },
+    {
+        "song_name": "One Nightbreak",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27351fe1be79683590ebab347d2",
+        "song_link": "https://open.spotify.com/track/5xPzA7IgeKrVz9d7YaubDv?si=6bb91fb248134886"
+    },
+    {
+        "song_name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3-\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2021\u300dLive- (feat. \u521d\u97f3\u30df\u30af)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c2426afbb6e4a624e588cd21",
+        "song_link": "https://open.spotify.com/track/29rRca4BXxuUCNmcCzHvtl?si=d3d7b99317c24d6a"
+    },
+    {
+        "song_name": "Welcome to the Black Parade",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
+        "song_link": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW?si=c67aa60620854267"
+    },
+    {
+        "song_name": "Teenagers",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27317f77fab7e8f18d5f9fee4a1",
+        "song_link": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0?si=2c80969d3ce64424"
+    },
+    {
+        "song_name": "I Miss You",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730a4ae12eb3a9fb7e3815001c",
+        "song_link": "https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw?si=1e2c1788120646bf"
+    },
+    {
+        "song_name": "Blind Alley - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/48ylOvHzj4jqVJggXmmTUa?si=63f489afd5d44bc6"
+    },
+    {
+        "song_name": "3/31 - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/5v8URbBnIYDimi5scxuvnr?si=42bac8b0879e437e"
+    },
+    {
+        "song_name": "Miku",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273154c3562dc92bcd302c72c9c",
+        "song_link": "https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW?si=5c696617d3614c4c"
+    },
+    {
+        "song_name": "ARE WE STILL FRIENDS?",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
+        "song_link": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai?si=b1ca04e5140e4007"
+    },
+    {
+        "song_name": "Heartful Cry - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732f8dfbe9a76c557ccc7596f1",
+        "song_link": "https://open.spotify.com/track/5ozALVs51ZVsZXPa2Z5N0f?si=6f3201b33dff42e1"
+    },
+    {
+        "song_name": "Backside Of The TV - Lotus Juice Remix",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e8d70919321c3d27ab5340d4",
+        "song_link": "https://open.spotify.com/track/6VoVBYZrt6DxTr11TZZMwf?si=0294af33fbfa4c74"
+    },
+    {
         "song_name": "Tear of the Goddess",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2733a92b744cb9b03b73f95546c",
-        "song_link": "https://open.spotify.com/track/2fKdOno4uuTRrTXdikpdfm"
-    },
-    {
-        "song_name": "Gathering Storm",
-        "album_cover": "https://i.scdn.co/image/ab67616d0000b273271db82dc8ab36a58edb04d7",
-        "song_link": "https://open.spotify.com/track/2eKab7Fw5lCVnVM4G16N6B"
-    },
-    {
-        "song_name": "Redemption",
-        "album_cover": "https://i.scdn.co/image/ab67616d0000b273271db82dc8ab36a58edb04d7",
-        "song_link": "https://open.spotify.com/track/3voBp3LlT8uHeQJ1QNWr8K"
+        "song_link": "https://open.spotify.com/track/2fKdOno4uuTRrTXdikpdfm?si=f44ecadc1b7a42bc"
     },
     {
         "song_name": "Patchwork",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273d790b7c6ec3500cea21d8501",
-        "song_link": "https://open.spotify.com/track/0NkSVpukp0sZQxaFEp8kow"
+        "song_link": "https://open.spotify.com/track/0NkSVpukp0sZQxaFEp8kow?si=6d7240cc83134995"
     },
     {
         "song_name": "It just is what it is",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273d790b7c6ec3500cea21d8501",
-        "song_link": "https://open.spotify.com/track/19KjgEyXcQ6cWjuexl7YLA"
+        "song_link": "https://open.spotify.com/track/19KjgEyXcQ6cWjuexl7YLA?si=794964d4b6cd4799"
     },
     {
         "song_name": "HARPO_ON",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273d790b7c6ec3500cea21d8501",
-        "song_link": "https://open.spotify.com/track/7LL2fm4c4VAXBfTaxvMpsY"
+        "song_link": "https://open.spotify.com/track/7LL2fm4c4VAXBfTaxvMpsY?si=17da3550998c4bcb"
     },
     {
         "song_name": "i still love you tho",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273d790b7c6ec3500cea21d8501",
-        "song_link": "https://open.spotify.com/track/0Ya7sM0Y59Ix0ASFbfM8gd"
+        "song_link": "https://open.spotify.com/track/0Ya7sM0Y59Ix0ASFbfM8gd?si=40c3ff46e2ed4963"
     },
     {
         "song_name": "The crushing weight of zero expectations",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273d790b7c6ec3500cea21d8501",
-        "song_link": "https://open.spotify.com/track/2yWeEK65hnSPy7DxWlMMgf"
+        "song_link": "https://open.spotify.com/track/2yWeEK65hnSPy7DxWlMMgf?si=70c6d13fa36b44d7"
     },
     {
         "song_name": "Blood moon",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273d790b7c6ec3500cea21d8501",
-        "song_link": "https://open.spotify.com/track/2tr36Dxa02ZTESpjXQlNxj"
+        "song_link": "https://open.spotify.com/track/2tr36Dxa02ZTESpjXQlNxj?si=05dfdc906880475a"
+    },
+    {
+        "song_name": "Gathering Storm",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273271db82dc8ab36a58edb04d7",
+        "song_link": "https://open.spotify.com/track/2eKab7Fw5lCVnVM4G16N6B?si=d931893d464f46ce"
     },
     {
         "song_name": "Ambitions and Visions (\u201cPersona5\uff1aThe Phantom X\u201d Soundtrack)",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27395a9e691f66980ad063875d5",
-        "song_link": "https://open.spotify.com/track/0pOFERyHwcIaQ0u3Gn82Cs"
+        "song_link": "https://open.spotify.com/track/0pOFERyHwcIaQ0u3Gn82Cs?si=7bcdc25c12e942a8"
     },
     {
         "song_name": "Childish Nostalgia",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27342a31d93b03210d3b027df93",
-        "song_link": "https://open.spotify.com/track/59OxwGwAD9wvB3SEJCujym"
+        "song_link": "https://open.spotify.com/track/59OxwGwAD9wvB3SEJCujym?si=1258a5cd2f3f4f4d"
     },
     {
-        "song_name": "Get Over Nightmares",
-        "album_cover": "No image available",
-        "song_link": "Link not available"
+        "song_name": "Redemption",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273271db82dc8ab36a58edb04d7",
+        "song_link": "https://open.spotify.com/track/3voBp3LlT8uHeQJ1QNWr8K?si=dac1c1fa371b49c1"
+    },
+    {
+        "song_name": "unbreakable tie \u3010\u7f6a\u3011",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730c6c3afef588506225f04086",
+        "song_link": "https://open.spotify.com/track/1F5X4BrRARFvDH5wVs5B1o?si=4cab4494fb454572"
+    },
+    {
+        "song_name": "Signs Of Love",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93",
+        "song_link": "https://open.spotify.com/track/2GtQU3R2zEUqDyapXdBENM?si=b7b7af8e0e264ba6"
+    },
+    {
+        "song_name": "Beauty of Destiny",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a381b0084139bd52ec1f87a2",
+        "song_link": "https://open.spotify.com/track/2Nmi0gx4owsOJXxgzM1MdU?si=f0dd872668794508"
+    },
+    {
+        "song_name": "Nothing is Promised",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27304493161690d8ebea556f022",
+        "song_link": "https://open.spotify.com/track/1FXGd71n7iMprQ2qXUU13I?si=0ec6066854da4743"
+    },
+    {
+        "song_name": "Remember, We Got Your Back",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27304493161690d8ebea556f022",
+        "song_link": "https://open.spotify.com/track/3VniF22z3sL1J5pIg5v1sN?si=a6391c206b314441"
+    },
+    {
+        "song_name": "Wait and See",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27304493161690d8ebea556f022",
+        "song_link": "https://open.spotify.com/track/3Wc005U7QG8ujsqjWC3FFD?si=197d7532249149e6"
+    },
+    {
+        "song_name": "Cinematic Tale -Duo-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27304493161690d8ebea556f022",
+        "song_link": "https://open.spotify.com/track/3wTjZS4FPdM65EBC2BIfqL?si=b384bde6b1c64e64"
+    },
+    {
+        "song_name": "Cinematic Tale -Solo-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27304493161690d8ebea556f022",
+        "song_link": "https://open.spotify.com/track/2KpBAvky7B3oOuxS4KZNoK?si=9ff61560b78c488f"
+    },
+    {
+        "song_name": "ROAD LESS TAKEN",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27304493161690d8ebea556f022",
+        "song_link": "https://open.spotify.com/track/3FUPfqDgqLtAyhvcpo3dKd?si=e040319b53cd40b9"
+    },
+    {
+        "song_name": "Best Friends",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273475536224ae3e6eb972b59d3",
+        "song_link": "https://open.spotify.com/track/0msqA9vV5Cls5vS5DW76lc?si=262f49b4349d40a4"
+    },
+    {
+        "song_name": "A Sky Full Of Stars",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739285aef5c0671c98e41c9a57",
+        "song_link": "https://open.spotify.com/track/2uAE3kSlanqv3U1KfdAhra?si=0a59170263384e2c"
+    },
+    {
+        "song_name": "Out of the Box",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
+        "song_link": "https://open.spotify.com/track/5p5tCyTnSWUuZgsKkKRcka?si=1e351a7e06c24edb"
     },
     {
         "song_name": "Radiant Dawn",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2732b4d0bf6fa336f756f21ce76",
-        "song_link": "https://open.spotify.com/track/3Xq15nD3OG1Y2uraKiZlmn"
-    },
-    {
-        "song_name": "Trigger",
-        "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
-        "song_link": "https://open.spotify.com/track/0oOWOwatHO3As3IJb661zg"
+        "song_link": "https://open.spotify.com/track/3Xq15nD3OG1Y2uraKiZlmn?si=072a49f2bfe44f91"
     },
     {
         "song_name": "64 Bits",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27320927c509737caae877199c6",
-        "song_link": "https://open.spotify.com/track/2C8ZLPTTs7AXBR8tLPC3Ie"
+        "song_link": "https://open.spotify.com/track/2C8ZLPTTs7AXBR8tLPC3Ie?si=430a55b03d8d4fec"
+    },
+    {
+        "song_name": "\u3074\u307d\u3074\u307d",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737cc46ab2b35f933dea6139cc",
+        "song_link": "https://open.spotify.com/track/7GxUPZNxNPvDToM4FkXE6G?si=4cbd4e004a384e6a"
     },
     {
         "song_name": "Take Your Shot (Boss Theme)",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27341ae5dbd9b9d2ccaedddfdf1",
-        "song_link": "https://open.spotify.com/track/1WDj2XW2RRy5ratsTOVKwV"
+        "song_link": "https://open.spotify.com/track/1WDj2XW2RRy5ratsTOVKwV?si=89a19b4efb024a16"
     },
     {
         "song_name": "Chameleon",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27320927c509737caae877199c6",
-        "song_link": "https://open.spotify.com/track/6fBFuuyzcFgmY1cQEtV5RY"
+        "song_link": "https://open.spotify.com/track/6fBFuuyzcFgmY1cQEtV5RY?si=17aa1f78e678444b"
+    },
+    {
+        "song_name": "Trigger",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
+        "song_link": "https://open.spotify.com/track/0oOWOwatHO3As3IJb661zg?si=0e2248001eff4c9e"
     },
     {
         "song_name": "Coward",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27320927c509737caae877199c6",
-        "song_link": "https://open.spotify.com/track/5jF1iQDHTKPC8yLHYpOrGp"
+        "song_link": "https://open.spotify.com/track/5jF1iQDHTKPC8yLHYpOrGp?si=09cda94366f14a16"
     },
     {
         "song_name": "Greedy",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27320927c509737caae877199c6",
-        "song_link": "https://open.spotify.com/track/3JViOrDWkANY3ixOKpcJYo"
+        "song_link": "https://open.spotify.com/track/3JViOrDWkANY3ixOKpcJYo?si=b77fa6e35a934679"
+    },
+    {
+        "song_name": "Counter Strike",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39",
+        "song_link": "https://open.spotify.com/track/3WvvYdNIcRBh8pzvZ03khk?si=cb6980d1e9424da1"
+    },
+    {
+        "song_name": "Shadow World",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739285aef5c0671c98e41c9a57",
+        "song_link": "https://open.spotify.com/track/4LfhUJfQX6fpuZ1uzcDEA6?si=77f5a88cb017478a"
+    },
+    {
+        "song_name": "Color Your Night",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/4pjFNyjGaoKgLTnndISP6V?si=c96911e6782d4720"
     },
     {
         "song_name": "Violins",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2734649a521fff7310ff1baa799",
-        "song_link": "https://open.spotify.com/track/2QgTg1IySbHJzr6Qle36H0"
+        "song_link": "https://open.spotify.com/track/2QgTg1IySbHJzr6Qle36H0?si=6295eef0272f41d3"
+    },
+    {
+        "song_name": "Don't",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/5N5kdftiOw4MzV4n4qifbx?si=b594eb4c885f432a"
+    },
+    {
+        "song_name": "Time Castle -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/75as7OCpCLk6FYNU59XEaF?si=1b54325127df4c99"
+    },
+    {
+        "song_name": "Brand New Days -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/3Ng1iCbCxE7iC170ZDWBdk?si=894abc6f55034d31"
+    },
+    {
+        "song_name": "P3 fes -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/6cyVHSgEiEebYQXrm7Sr2p?si=2c97b74b3943455d"
+    },
+    {
+        "song_name": "Disconnected",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/1GCjGQ2zBYumwdSF3uVCfX?si=12c9fc50b0a94247"
     },
     {
         "song_name": "from the start (meowfey)",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2730a63a98d9ed7547d45c47e30",
-        "song_link": "https://open.spotify.com/track/2MXvZjUd4vedZNFhMPqfC9"
+        "song_link": "https://open.spotify.com/track/2MXvZjUd4vedZNFhMPqfC9?si=15bcdac9208f45bc"
+    },
+    {
+        "song_name": "Disconnected - Opening Movie Version",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/6iRUyQyvlfnQwbbRvVENPJ?si=d81ffdd16389435a"
+    },
+    {
+        "song_name": "Mass Destruction -P3fes Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27334a47055963ce32118fca25a",
+        "song_link": "https://open.spotify.com/track/4NjNpxfGOnVjo64TqU9oQg?si=fd4113a57e1f4324"
     },
     {
         "song_name": "The Name of Heaven",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
-        "song_link": "https://open.spotify.com/track/7rNaFhd3uNKB3UDPxrLDEI"
+        "song_link": "https://open.spotify.com/track/7rNaFhd3uNKB3UDPxrLDEI?si=530cbc13f0b0488d"
     },
     {
         "song_name": "Hellfire",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27382e6573afb9dc64e1741050f",
-        "song_link": "https://open.spotify.com/track/4CNLNJ1y4IpHNEI2xdTEIU"
+        "song_link": "https://open.spotify.com/track/4CNLNJ1y4IpHNEI2xdTEIU?si=b1a17b07bf7d44db"
     },
     {
         "song_name": "What do you fight for",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27382e6573afb9dc64e1741050f",
-        "song_link": "https://open.spotify.com/track/2HGrU9vynd4O6m9KygpLe5"
+        "song_link": "https://open.spotify.com/track/2HGrU9vynd4O6m9KygpLe5?si=60983a76d8dd4f05"
     },
     {
         "song_name": "Talk About You",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
-        "song_link": "https://open.spotify.com/track/2hIsTHmBEqtf4KSRCz6NAy"
+        "song_link": "https://open.spotify.com/track/2hIsTHmBEqtf4KSRCz6NAy?si=45d8a416817a4e89"
     },
     {
         "song_name": "Like a Weed, Naturally, as a Matter of Course",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27382e6573afb9dc64e1741050f",
-        "song_link": "https://open.spotify.com/track/506u1tC4Cn4l8xOyRDKdKs"
+        "song_link": "https://open.spotify.com/track/506u1tC4Cn4l8xOyRDKdKs?si=fee714619993446d"
     },
     {
         "song_name": "The Kiss of Death",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27382e6573afb9dc64e1741050f",
-        "song_link": "https://open.spotify.com/track/6OTGs7slPd2WZLgKzUC1R2"
+        "song_link": "https://open.spotify.com/track/6OTGs7slPd2WZLgKzUC1R2?si=c2846a039aa84924"
+    },
+    {
+        "song_name": "School Days (From \"Persona\")",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273234ea6e08bce960887743a42",
+        "song_link": "https://open.spotify.com/track/3Zxp0mMMvOUNdawy6Z27g2?si=fd58b3616f7d4a93"
     },
     {
         "song_name": "end of a life",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2739cab3395b67694ffac0f1ef9",
-        "song_link": "https://open.spotify.com/track/0i2THDeAhJma8FrUVy90No"
+        "song_link": "https://open.spotify.com/track/0i2THDeAhJma8FrUVy90No?si=18172e9e7df4401f"
     },
     {
         "song_name": "guh",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273bfa10b02c2e327512715b08b",
-        "song_link": "https://open.spotify.com/track/1rae8blMgdy6WQgZAHxRXN"
+        "song_link": "https://open.spotify.com/track/1rae8blMgdy6WQgZAHxRXN?si=4397e9e707d548ac"
     },
     {
         "song_name": "\u5931\u793c\u3057\u307e\u3059\u304c\u3001RIP\u2661",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273ee055bf73a04147819179bde",
-        "song_link": "https://open.spotify.com/track/4luSvNPtu6emYsaTOHrguR"
+        "song_link": "https://open.spotify.com/track/4luSvNPtu6emYsaTOHrguR?si=de46241156604368"
     },
     {
         "song_name": "The Grim Reaper is a Live-Streamer",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273bfa10b02c2e327512715b08b",
-        "song_link": "https://open.spotify.com/track/6i3It0rVKEvoaTkzIxGOpg"
+        "song_link": "https://open.spotify.com/track/6i3It0rVKEvoaTkzIxGOpg?si=30d5143a728540be"
     },
     {
         "song_name": "Red",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273bfa10b02c2e327512715b08b",
-        "song_link": "https://open.spotify.com/track/3h8efEQ3MsDESpfeKX1JI4"
+        "song_link": "https://open.spotify.com/track/3h8efEQ3MsDESpfeKX1JI4?si=351616bd43bc4ea6"
     },
     {
         "song_name": "Live Again",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273ee055bf73a04147819179bde",
-        "song_link": "https://open.spotify.com/track/4Xnuh5fEHbHpxI3leaQSLN"
+        "song_link": "https://open.spotify.com/track/4Xnuh5fEHbHpxI3leaQSLN?si=e5bbe8ae7e8b41ea"
     },
     {
         "song_name": "Off With Their Heads",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2736f98d8da9d85e339441adc7c",
-        "song_link": "https://open.spotify.com/track/1ffXf7HjLCHvNZngkQpGTR"
+        "song_link": "https://open.spotify.com/track/1ffXf7HjLCHvNZngkQpGTR?si=d5191d01b6a2445c"
     },
     {
         "song_name": "dreamy night",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2730d367a15b6d10f584ee8e9c4",
-        "song_link": "https://open.spotify.com/track/3NyxWuYU0s2GA6oZgDRQep"
+        "song_link": "https://open.spotify.com/track/3NyxWuYU0s2GA6oZgDRQep?si=415a93434e2c4183"
     },
     {
         "song_name": "lilypad",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2730ef144a465f66567e949fbc4",
-        "song_link": "https://open.spotify.com/track/3D0RQKzuWj62IzJqC0l6y2"
+        "song_link": "https://open.spotify.com/track/3D0RQKzuWj62IzJqC0l6y2?si=7fafc83fdccd4360"
+    },
+    {
+        "song_name": "Moonlight Daydream",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a7676e817ba967ad435aca4d",
+        "song_link": "https://open.spotify.com/track/3yspMvLhl7Yc6PdITZTk3H?si=44c20a19c2254650"
     },
     {
         "song_name": "Friday Night Fire Fight",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273199527ea98e780e65a9afc65",
-        "song_link": "https://open.spotify.com/track/1GhEAuoPdSPiOgqiwLvdf0"
+        "song_link": "https://open.spotify.com/track/1GhEAuoPdSPiOgqiwLvdf0?si=74c65296aca84404"
+    },
+    {
+        "song_name": "sky's the limit",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a381b0084139bd52ec1f87a2",
+        "song_link": "https://open.spotify.com/track/6Wpea14Yf7G0pbTtsrXFaq?si=932583fcfcba4970"
     },
     {
         "song_name": "Love the Subhuman Self",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2731654fce4f56da00f31279bca",
-        "song_link": "https://open.spotify.com/track/1wMRTzRQf1E5QR78v9Hs08"
+        "song_link": "https://open.spotify.com/track/1wMRTzRQf1E5QR78v9Hs08?si=4ee32abb0fb749b2"
     },
     {
         "song_name": "Who's Ready for Tomorrow",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273a91a5b301baac1f46e6f30eb",
-        "song_link": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i"
+        "song_link": "https://open.spotify.com/track/4mn5HdatHKN7iFGDes9G8i?si=b7cdaa190eff441c"
     },
     {
         "song_name": "Extras",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27305adc1844bc41078982e554c",
-        "song_link": "https://open.spotify.com/track/4vY7JlA1ufbjYvDPxLXRHF"
+        "song_link": "https://open.spotify.com/track/4vY7JlA1ufbjYvDPxLXRHF?si=437a3114d37a400c"
     },
     {
         "song_name": "Perfection Can't Please Me",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27382e6573afb9dc64e1741050f",
-        "song_link": "https://open.spotify.com/track/5fwuycV7iT45tAW1blRrKq"
+        "song_link": "https://open.spotify.com/track/5fwuycV7iT45tAW1blRrKq?si=4cd01b35879d4ace"
     },
     {
         "song_name": "The Circle",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273e8a0cd1d22fff19e13e35782",
-        "song_link": "https://open.spotify.com/track/7fh4Lm18MZWGgt3HkuiWKX"
+        "song_link": "https://open.spotify.com/track/7fh4Lm18MZWGgt3HkuiWKX?si=7fff61ebd6bf4193"
     },
     {
         "song_name": "Play the Hero",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
-        "song_link": "https://open.spotify.com/track/6iEHZ3KUkCqCzXSllK5oBk"
+        "song_link": "https://open.spotify.com/track/6iEHZ3KUkCqCzXSllK5oBk?si=ce712fe8b3844a1e"
     },
     {
         "song_name": "Necessary Discrepancy",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
-        "song_link": "https://open.spotify.com/track/68KPppy3vdZTu1HeO2Kdnl"
+        "song_link": "https://open.spotify.com/track/68KPppy3vdZTu1HeO2Kdnl?si=b79fbbfa70a04a7f"
     },
     {
         "song_name": "Find Your One Way",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
-        "song_link": "https://open.spotify.com/track/2ogISPX6PW43amSRSbK6Ff"
+        "song_link": "https://open.spotify.com/track/2ogISPX6PW43amSRSbK6Ff?si=f5e2af3b7b324284"
+    },
+    {
+        "song_name": "key plus words",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736b3a9d76e12e9b201a1e29ff",
+        "song_link": "https://open.spotify.com/track/1mhh5vndBPVhb77O6XcukH?si=8e2d033d8f524093"
     },
     {
         "song_name": "\u30d2\u30d3\u30ab\u30bb",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27348cbdef454b5636ee5ebeb34",
-        "song_link": "https://open.spotify.com/track/0H1iMm1pO61srixV0rGYRe"
+        "song_link": "https://open.spotify.com/track/0H1iMm1pO61srixV0rGYRe?si=040045184c1d4a6f"
+    },
+    {
+        "song_name": "Never More",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93",
+        "song_link": "https://open.spotify.com/track/0p7Ea0PaqVqxLc6mQwYgDZ?si=def9adad387b48af"
+    },
+    {
+        "song_name": "The Whims of Fate",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732a061f8cc383443cbb46adf6",
+        "song_link": "https://open.spotify.com/track/73DCreJgfFdFxVnjsMSeo4?si=17a9c7594a984ecc"
     },
     {
         "song_name": "Ups and Downs",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ee8b19e6ca0be542101d34b",
-        "song_link": "https://open.spotify.com/track/7pr0nosa3DVrPYrMm6efrv"
+        "song_link": "https://open.spotify.com/track/7pr0nosa3DVrPYrMm6efrv?si=1c3931035ba24c6d"
+    },
+    {
+        "song_name": "Master of Shadow -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/373lZSfdigT1oLTBYzOMOB?si=0f7d75099ad2488e"
     },
     {
         "song_name": "Tchaikovsky & Solitude",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2739af255bdcf2257e6ed159125",
-        "song_link": "https://open.spotify.com/track/6RtGv7Jt2egNIm5q2NMTLw"
+        "song_link": "https://open.spotify.com/track/6RtGv7Jt2egNIm5q2NMTLw?si=1a4b4075d7704a9c"
     },
     {
         "song_name": "Goodbye Lovers and Friends",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273f85c427ae396ec88898572f5",
-        "song_link": "https://open.spotify.com/track/7fq0d4gJ0MizFcdK7zhddn"
+        "song_link": "https://open.spotify.com/track/7fq0d4gJ0MizFcdK7zhddn?si=8314b96142ec46d9"
+    },
+    {
+        "song_name": "Heaven",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736f30ea0b56e51e110ef7c45e",
+        "song_link": "https://open.spotify.com/track/3VrTt9v7pla32Lm48QW1zM?si=47620d22af754678"
     },
     {
         "song_name": "July",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273ea62033ca52bcc6c595c2692",
-        "song_link": "https://open.spotify.com/track/4IX7wfcm18AZwto3xt1j9j"
+        "song_link": "https://open.spotify.com/track/4IX7wfcm18AZwto3xt1j9j?si=8e4890d7a0274a2c"
     },
     {
         "song_name": "Computer Talk",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27300d2c933b5c296b41875eef3",
-        "song_link": "https://open.spotify.com/track/4WXkvL7Wjw0yRFKIv6e5DQ"
+        "song_link": "https://open.spotify.com/track/4WXkvL7Wjw0yRFKIv6e5DQ?si=b5013331749d4754"
+    },
+    {
+        "song_name": "It's Going Down Now",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27314877ba5b2264414403b70bd",
+        "song_link": "https://open.spotify.com/track/3uNb9n1ShVR32Xjskf6Y2o?si=780118a4a873401e"
+    },
+    {
+        "song_name": "Time",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27314877ba5b2264414403b70bd",
+        "song_link": "https://open.spotify.com/track/65WU1Hk9yIu3LZUFaMMnHS?si=04bd92ba28624cfe"
+    },
+    {
+        "song_name": "Time",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27314877ba5b2264414403b70bd",
+        "song_link": "https://open.spotify.com/track/2yOXjnezzPy5mbD5wh1w1G?si=c9b5ab139b4941d2"
+    },
+    {
+        "song_name": "A Way of Life",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27314877ba5b2264414403b70bd",
+        "song_link": "https://open.spotify.com/track/68E0GBbBBD55EFarzLOllN?si=3b9b1d0feb484ed0"
+    },
+    {
+        "song_name": "P3 fes",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273644e1887489294e6700b44ec",
+        "song_link": "https://open.spotify.com/track/1L4s3u6PeAfnj0BIhQx1RH?si=b2611e3004f348d4"
     },
     {
         "song_name": "Requiem",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
-        "song_link": "https://open.spotify.com/track/1XCTJTiBoUh56QQnK8DJD3"
+        "song_link": "https://open.spotify.com/track/1XCTJTiBoUh56QQnK8DJD3?si=cd93495b4707449d"
     },
     {
         "song_name": "The Disaster of Passion",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
-        "song_link": "https://open.spotify.com/track/6LaSTRfDyGBH5a3DUntsDc"
+        "song_link": "https://open.spotify.com/track/6LaSTRfDyGBH5a3DUntsDc?si=0241a2183ec34402"
     },
     {
         "song_name": "Smell of the Game",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273051d84b6cac537e613b6d5a9",
-        "song_link": "https://open.spotify.com/track/5gBzEMgNu3vVMFypYAJVhr"
+        "song_link": "https://open.spotify.com/track/5gBzEMgNu3vVMFypYAJVhr?si=138621b66c9448bf"
     },
     {
         "song_name": "Symphony",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273673b647040e16f7cd337b9b2",
-        "song_link": "https://open.spotify.com/track/5uqbgEX0ecDOOJeceRhOJT"
+        "song_link": "https://open.spotify.com/track/5uqbgEX0ecDOOJeceRhOJT?si=ed2c92b62d8442de"
+    },
+    {
+        "song_name": "Backside Of The TV",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93",
+        "song_link": "https://open.spotify.com/track/0ee4Ic7uGzK1IoTLjTpEe4?si=0d9d964c5c2e4f99"
     },
     {
         "song_name": "The Town Inside Me",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27390b0f36792c4d61e4b67a7c6",
-        "song_link": "https://open.spotify.com/track/7yiOte1eSM0npbr8sEIuzs"
+        "song_link": "https://open.spotify.com/track/7yiOte1eSM0npbr8sEIuzs?si=3d30161df1034cb3"
+    },
+    {
+        "song_name": "Deep Breath Deep Breath -Reincarnation Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/1o6TXRj9RnjaspWBibozIP?si=7a1e4b10dee14697"
+    },
+    {
+        "song_name": "Burn My Dread -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/1NG7bEQxL6ZfRuqHb1DFm8?si=7def74a6153140e8"
+    },
+    {
+        "song_name": "Memories of You -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/3R0XM0PaKh2R7WYF8UJYe0?si=2426ca8d10ef4dda"
+    },
+    {
+        "song_name": "I Will Protect You -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/5urVDJJONveZJ7QVkmeIDx?si=ef5922a4644241b4"
+    },
+    {
+        "song_name": "Enduring Bonds - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/6PTQbPf0hwFP4Hkkxg6vmR?si=e3f044938e7f4455"
+    },
+    {
+        "song_name": "Burn My Dread -Last Battle Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/6TTwZil2HwiOP3Rw92dSRG?si=77394cd3370f4541"
+    },
+    {
+        "song_name": "Nyx - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/0d4jovzfFhQRxOReCC3zBU?si=2b8a35480c7a49c8"
+    },
+    {
+        "song_name": "Battle Hymn of the Soul - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/3R8U6Yjmo1tJxKcNyiiOWH?si=865950ca06bc4e17"
+    },
+    {
+        "song_name": "What Lies in the Darkness - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/6QpXJhKucYqKdYJEKE3fgJ?si=9b5b41dc7da149d8"
+    },
+    {
+        "song_name": "Living With Determination - Iwatodai Dorm Arrangement P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/5KptY0hgBhRzt2wU5ee7LU?si=b93e4c5e3f5d4d3e"
+    },
+    {
+        "song_name": "Memories of the School - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/7xb46wRRPtoxD1C8dm0o7P?si=6f1c91bd9a3b434b"
+    },
+    {
+        "song_name": "Memories of the City - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/1ooJPgGtQ80135CG5zvfJt?si=273768c751344a07"
+    },
+    {
+        "song_name": "Mistic - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/27ST93ZWzSv5fAOB8MMWQb?si=70ca34d7015e48eb"
+    },
+    {
+        "song_name": "Memories from 10 Years Ago -Confrontation-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/1qyLkkvIDvRPBPZsp6SBsp?si=f574ccdc89284743"
+    },
+    {
+        "song_name": "Tanaka's Amazing Commodities -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/6wfzeflw9af864dHxkQsXW?si=0f40a93bcada4584"
+    },
+    {
+        "song_name": "Living With Determination - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/1E4Cf02Uz67i8ARTjpe7up?si=66e26f37068e4953"
+    },
+    {
+        "song_name": "Master of Tartarus -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/4FVeFUY31jmJtoKuueXFP7?si=6dd6c5baf06b4b32"
+    },
+    {
+        "song_name": "Basement - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/2FRGBMSSZryEegXg87NZZT?si=52971c756a324979"
+    },
+    {
+        "song_name": "Changing Seasons -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/1PPzHVc3ietfHHU0vPPPDl?si=541cb71282fe497d"
+    },
+    {
+        "song_name": "It's Going Down Now",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28?si=2236a71621bf42af"
+    },
+    {
+        "song_name": "Deep Mentality -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/1PjeFnsZC3Tw61FBfCTWdn?si=d8500043894c4907"
+    },
+    {
+        "song_name": "During the Exam - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/5awE3wRMrHOtnnPloSPjSu?si=5046a34741944827"
+    },
+    {
+        "song_name": "Calamity - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/090HxAel7We4jQvsHjhnxp?si=95f802d3f0ff4206"
+    },
+    {
+        "song_name": "Bad Feeling - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/2firfho4VUbVwktra0wamz?si=9a93a73a083b460f"
+    },
+    {
+        "song_name": "The Meaning of Armbands",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/39A5h7yV6sut0cOwxQviIr?si=0d9a008073954e55"
+    },
+    {
+        "song_name": "Paulownia Mall -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/23cFgnUK5icUU53LsWAVE6?si=f3718797b6fa4403"
+    },
+    {
+        "song_name": "Deep Breath Deep Breath -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/44U2jUczRzLNme3lweF2Rs?si=fc1e38481aca4b21"
+    },
+    {
+        "song_name": "Mass Destruction -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/4xCzUoKfZOlQ99Lg48kgQN?si=275c3cd911ce4f91"
+    },
+    {
+        "song_name": "Iwatodai Dorm -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/3uekHQtWNzxkcU6eNn16fv?si=3c1a8f38a1664e9f"
+    },
+    {
+        "song_name": "When The Moon's Reaching Out Stars -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/7pc3hxGf3xLsYXGKitStzP?si=2a8274feb0194e95"
+    },
+    {
+        "song_name": "Peace -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/1BI32f5uehqHo8Vp68T1n0?si=34c0337a44c148b5"
+    },
+    {
+        "song_name": "Unavoidable Battle - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/185v6Wqs3PFaER7qVpB2vc?si=2a8a3f1f93d44311"
+    },
+    {
+        "song_name": "Want To Be Close -Reload-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/2fGrSe38muTVmvtGVuaQO6?si=1c877bcc2ddd419e"
+    },
+    {
+        "song_name": "This Mysterious Feeling - P3R ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/6QPELagzPllOSKfEEnN3qo?si=6a12ea92342b4b44"
+    },
+    {
+        "song_name": "Full Moon Full Life",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e59bdb7ca29ddfcb23ec4bf6",
+        "song_link": "https://open.spotify.com/track/3Jl2LQmRwbXEF2lO1RTvxn?si=16c0caa90cb94ae1"
+    },
+    {
+        "song_name": "Soul Phrase",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ec97d1d2e539b11363f3a25",
+        "song_link": "https://open.spotify.com/track/4xqAMbkPdliQG3mXi72nNt?si=359efda344ee44a6"
+    },
+    {
+        "song_name": "A Way of Life",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ec97d1d2e539b11363f3a25",
+        "song_link": "https://open.spotify.com/track/1QkfNZ0Gh1QMiq7mtds6hq?si=2870dc10ec6f4e3a"
+    },
+    {
+        "song_name": "Wiping All Out",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ec97d1d2e539b11363f3a25",
+        "song_link": "https://open.spotify.com/track/66FiK8mpHUEjuTj2bpSzc6?si=c3cfb706a00a41a9"
+    },
+    {
+        "song_name": "Dance!",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e8d70919321c3d27ab5340d4",
+        "song_link": "https://open.spotify.com/track/0VVJ8oBXp5jlr9qQkpMrR7?si=714d9ed76e4f4a1b"
     },
     {
         "song_name": "Song For The Dead",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc",
-        "song_link": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T"
+        "song_link": "https://open.spotify.com/track/66UbHESsyfaXdoxlqVBa1T?si=c2de8d2671804790"
+    },
+    {
+        "song_name": "Infinity",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273afef97988b8cb212ce3672bb",
+        "song_link": "https://open.spotify.com/track/02Gvg6IuIAMF8ybeWLCJDq?si=b88a3846c4c24f50"
+    },
+    {
+        "song_name": "Dark Sun",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ca56f631ce25fcff423be77",
+        "song_link": "https://open.spotify.com/track/7MEEPJB43aUH4zQdELVhmD?si=a29c2ef80dc74a55"
+    },
+    {
+        "song_name": "Break In To Break Out",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ca56f631ce25fcff423be77",
+        "song_link": "https://open.spotify.com/track/3NWYRPxefJ1HGMSuGgBlVc?si=2a1d0753094b49cf"
+    },
+    {
+        "song_name": "Break Out Of...",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733d601dd2831d35b6c37c40ae",
+        "song_link": "https://open.spotify.com/track/0MdI5GvoEVqxC6hFwJlC7Q?si=6488939ad2ca4fe4"
+    },
+    {
+        "song_name": "Our Moment",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27362edd96972da005f9ba95adf",
+        "song_link": "https://open.spotify.com/track/4G1ZdvpRzrK5HmSbO4xqfk?si=9efb21f0b36e4e9b"
     },
     {
         "song_name": "Waiting on You",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27330328b035f2dd3e67621b6d5",
-        "song_link": "https://open.spotify.com/track/6a7Wf0Gxc2f2a5OjeVW8k6"
+        "song_link": "https://open.spotify.com/track/6a7Wf0Gxc2f2a5OjeVW8k6?si=ef8ba1fa85c54aa1"
     },
     {
         "song_name": "Movin' Out (Anthony's Song)",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
-        "song_link": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct"
+        "song_link": "https://open.spotify.com/track/16GUMo6u3D2qo9a19AkYct?si=02d4fe08092340af"
     },
     {
         "song_name": "Bruddanem (feat. Lil Durk)",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273cae6e44dcc84e2035c3ad092",
-        "song_link": "https://open.spotify.com/track/3n31mf1JGlRxAGwHwx3pDd"
+        "song_link": "https://open.spotify.com/track/3n31mf1JGlRxAGwHwx3pDd?si=8f18948b65b34913"
     },
     {
         "song_name": "Sweetwater Girl",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2737818a6e4ce8cb43266d6df0c",
-        "song_link": "https://open.spotify.com/track/4TJ3hTGJGZBnxxStWnFeNg"
+        "song_link": "https://open.spotify.com/track/4TJ3hTGJGZBnxxStWnFeNg?si=403d0f7d81dc4cc4"
+    },
+    {
+        "song_name": "Pull the Trigger",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27304493161690d8ebea556f022",
+        "song_link": "https://open.spotify.com/track/4LqcI1Yf5xTAgAfPrPUzLL?si=d7a2e608ee4b4f17"
+    },
+    {
+        "song_name": "Kindness",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d7f6f036e878cf2167b472",
+        "song_link": "https://open.spotify.com/track/3L80scP6RY16VFyEnXe1Y5?si=577a759d12674412"
     },
     {
         "song_name": "Baja (Only Wanna Be with You)",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27337a444083db0790ccd0bc63f",
-        "song_link": "https://open.spotify.com/track/3WNYDCrdbmBJStyROdfweB"
+        "song_link": "https://open.spotify.com/track/3WNYDCrdbmBJStyROdfweB?si=e2db24ba05ba4b34"
     },
     {
         "song_name": "Mona Lisa",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27337a444083db0790ccd0bc63f",
-        "song_link": "https://open.spotify.com/track/7xokXnTnxkLoS8MfsOc6Zk"
+        "song_link": "https://open.spotify.com/track/7xokXnTnxkLoS8MfsOc6Zk?si=4e3ed50bcff14a51"
     },
     {
         "song_name": "Kendall Drive",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273e7eec79045e6c0b2a6f6cd04",
-        "song_link": "https://open.spotify.com/track/4l9Lf72kBNL1RTV3ZQvK17"
+        "song_link": "https://open.spotify.com/track/4l9Lf72kBNL1RTV3ZQvK17?si=d79b7611b4e8455c"
     },
     {
         "song_name": "At The Door",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
-        "song_link": "https://open.spotify.com/track/7lu6YLrlB1MU7HW8DJSuPa"
+        "song_link": "https://open.spotify.com/track/7lu6YLrlB1MU7HW8DJSuPa?si=ba8c58ad07974e3a"
     },
     {
         "song_name": "Can\u2019t Stop - Cannot Deny My Heart",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2730b78e84b8287b1870f837594",
-        "song_link": "https://open.spotify.com/track/0Q6CSbYguIqOodMU8O64Bg"
+        "song_link": "https://open.spotify.com/track/0Q6CSbYguIqOodMU8O64Bg?si=81ea516122de465a"
     },
     {
         "song_name": "The Bandit",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2730b78e84b8287b1870f837594",
-        "song_link": "https://open.spotify.com/track/0hvzzCSu1PBRnU0Kn9yo3j"
+        "song_link": "https://open.spotify.com/track/0hvzzCSu1PBRnU0Kn9yo3j?si=c7c0f35d84964397"
+    },
+    {
+        "song_name": "Hideout -3rd-",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d7f6f036e878cf2167b472",
+        "song_link": "https://open.spotify.com/track/25pn3K1APJk3NyPbQ8c6Zc?si=df65baa43cbd4d1f"
     },
     {
         "song_name": "Break a Sweat",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2730b78e84b8287b1870f837594",
-        "song_link": "https://open.spotify.com/track/588knsBIPSy4RnSvJQI4Vj"
+        "song_link": "https://open.spotify.com/track/588knsBIPSy4RnSvJQI4Vj?si=a6375cfe7a3f4968"
     },
     {
         "song_name": "You Get Me So High",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
-        "song_link": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
+        "song_link": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS?si=213ae8b456974385"
     },
     {
         "song_name": "The Last Time I Write",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2737818a6e4ce8cb43266d6df0c",
-        "song_link": "https://open.spotify.com/track/1f5Rj9LOWKhqHsZSRbHvBJ"
+        "song_link": "https://open.spotify.com/track/1f5Rj9LOWKhqHsZSRbHvBJ?si=3234b471fe79450d"
     },
     {
         "song_name": "Fire",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27385ab7c452446953c3355b18a",
-        "song_link": "https://open.spotify.com/track/18Hq4xHyecxySkoUPQyYV2"
+        "song_link": "https://open.spotify.com/track/18Hq4xHyecxySkoUPQyYV2?si=79e8ab44797142b3"
     },
     {
         "song_name": "Moment of Silence",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2733fa8bb02026222599dc19fcc",
-        "song_link": "https://open.spotify.com/track/4gc6hbxlJw2Y54IPZGQUMu"
+        "song_link": "https://open.spotify.com/track/4gc6hbxlJw2Y54IPZGQUMu?si=605d53aa1b2a48ed"
     },
     {
         "song_name": "50 proof",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2734e37f80cf5c4bdca89d8fa1b",
-        "song_link": "https://open.spotify.com/track/45msxlsztytuAG4Nr7dUSj"
+        "song_link": "https://open.spotify.com/track/45msxlsztytuAG4Nr7dUSj?si=fb8779b25e764184"
     },
     {
         "song_name": "pacman",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2734e37f80cf5c4bdca89d8fa1b",
-        "song_link": "https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc"
+        "song_link": "https://open.spotify.com/track/4nbofXfYHejWJbJcxSLQXc?si=4abdcc9c97304817"
     },
     {
         "song_name": "la trains",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2734e37f80cf5c4bdca89d8fa1b",
-        "song_link": "https://open.spotify.com/track/7ozOFKg87i28TSrfpUm1jD"
+        "song_link": "https://open.spotify.com/track/7ozOFKg87i28TSrfpUm1jD?si=17872eca301a4b4b"
     },
     {
         "song_name": "Burnt",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/3rX8hFCxNSytQFMqrZWBj6"
+        "song_link": "https://open.spotify.com/track/3rX8hFCxNSytQFMqrZWBj6?si=b21c0e77ca374dc6"
     },
     {
         "song_name": "Train Wreck",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27320927c509737caae877199c6",
-        "song_link": "https://open.spotify.com/track/34DmJ4NW9rLojvN1kV7yXC"
+        "song_link": "https://open.spotify.com/track/34DmJ4NW9rLojvN1kV7yXC?si=06c9d97dc56941d8"
     },
     {
         "song_name": "sateLLITE",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/0geqtkG1RiyDMJ82EJMSGr"
+        "song_link": "https://open.spotify.com/track/0geqtkG1RiyDMJ82EJMSGr?si=dc61a57f7c744cdf"
     },
     {
         "song_name": "Trashy with YOU !!",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/0swgTTE4Ht6Fdvmfn6f5uz"
+        "song_link": "https://open.spotify.com/track/0swgTTE4Ht6Fdvmfn6f5uz?si=45fe381fd71d4a1e"
     },
     {
         "song_name": "METALS",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/3V4LtKb5bb1Oqu32rByMsG"
+        "song_link": "https://open.spotify.com/track/3V4LtKb5bb1Oqu32rByMsG?si=5cc80fc9f27f48c9"
     },
     {
         "song_name": "Guess",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/5Ur5JdegCc8dHEuG8PLbb7"
+        "song_link": "https://open.spotify.com/track/5Ur5JdegCc8dHEuG8PLbb7?si=ea83aaf9d2fc4e9e"
     },
     {
         "song_name": "heat_death",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/6o8Z02SymkMUSzoTG78dSp"
+        "song_link": "https://open.spotify.com/track/6o8Z02SymkMUSzoTG78dSp?si=d158acfd61b842a8"
     },
     {
         "song_name": "Sunday Syndrome",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/2zMPI1fOlinDuiRsNxYkvI"
+        "song_link": "https://open.spotify.com/track/2zMPI1fOlinDuiRsNxYkvI?si=08b5628d82b34bc6"
     },
     {
         "song_name": "johannn",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/61XXNqpqkpQJnCEVE3dm7M"
+        "song_link": "https://open.spotify.com/track/61XXNqpqkpQJnCEVE3dm7M?si=c56075eedcca464c"
     },
     {
         "song_name": "Patience (There's a Better Way)",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/0tUFNpkkyLTOx0mv5Xsq3E"
+        "song_link": "https://open.spotify.com/track/0tUFNpkkyLTOx0mv5Xsq3E?si=215350801d414725"
     },
     {
         "song_name": "last ones",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27312176f3ec2448de4416e3467",
-        "song_link": "https://open.spotify.com/track/3TG1l0WAGB247ANcBeQJgv"
+        "song_link": "https://open.spotify.com/track/3TG1l0WAGB247ANcBeQJgv?si=15ee1ffbadd042d5"
     },
     {
         "song_name": "All I Need",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273de3c04b5fc750b68899b20a9",
-        "song_link": "https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J"
+        "song_link": "https://open.spotify.com/track/5Qv2Nby1xTr9pQyjkrc94J?si=3ef66146955e41b4"
     },
     {
         "song_name": "Rhymes Like Dimes",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2736ce90ec627a0198a8efd127f",
-        "song_link": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ"
+        "song_link": "https://open.spotify.com/track/6OkDb9fyi22Pr6QJIrUNdJ?si=8ea0ffe93d0f482f"
     },
     {
         "song_name": "Bubbly",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2734b61b529b6cc9f4a93dc7847",
-        "song_link": "https://open.spotify.com/track/7aLtFOQyLWC1L1XPN8RC3b"
+        "song_link": "https://open.spotify.com/track/7aLtFOQyLWC1L1XPN8RC3b?si=45840a90bef84fca"
+    },
+    {
+        "song_name": "The AI and its Heart - another version",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39",
+        "song_link": "https://open.spotify.com/track/2RqwG2ipyLN0EdgLRwDK3Z?si=9e0b0d2d64db4f0f"
+    },
+    {
+        "song_name": "The AI and its Heart",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39",
+        "song_link": "https://open.spotify.com/track/4Ba5vcfQDZokGH71dta8DW?si=dfcc3aeb7c684252"
+    },
+    {
+        "song_name": "Inextinguishable",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d7f6f036e878cf2167b472",
+        "song_link": "https://open.spotify.com/track/12KKkqG5N1w4YvUH2PmgbG?si=5a9bb86692bf406e"
     },
     {
         "song_name": "Alleyways",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
-        "song_link": "https://open.spotify.com/track/4V37tyDu9CtqYshvrgLke4"
+        "song_link": "https://open.spotify.com/track/4V37tyDu9CtqYshvrgLke4?si=43f051859f2d455b"
     },
     {
         "song_name": "Better",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2737b1fd095ef564833f36263e6",
-        "song_link": "https://open.spotify.com/track/5dtJTax7nWw51mm0SaLSC5"
+        "song_link": "https://open.spotify.com/track/5dtJTax7nWw51mm0SaLSC5?si=fb41c638bbf0441a"
     },
     {
         "song_name": "Your Name",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b27307d74bde9b62f646ada51c4c",
-        "song_link": "https://open.spotify.com/track/1N4SsHhkKGKZi1VxH3wHyc"
+        "song_link": "https://open.spotify.com/track/1N4SsHhkKGKZi1VxH3wHyc?si=31354a00ac094250"
     },
     {
         "song_name": "Priority",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273a2526ce1ab670655e3fefe39",
-        "song_link": "https://open.spotify.com/track/37W1f5j8lu9m5bZwsEXxIB"
+        "song_link": "https://open.spotify.com/track/37W1f5j8lu9m5bZwsEXxIB?si=fa98a13062624d4e"
+    },
+    {
+        "song_name": "Quiet Storm",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d7f6f036e878cf2167b472",
+        "song_link": "https://open.spotify.com/track/7qxlqbWhVxzIuIb1gUJJ9G?si=bc42e9aa62044747"
+    },
+    {
+        "song_name": "The Night We Stood",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d7f6f036e878cf2167b472",
+        "song_link": "https://open.spotify.com/track/01eDPGlMKJROidqY7thAY0?si=84f3259f40a7483d"
     },
     {
         "song_name": "Redbone",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273f78c98bbf2b3c9e2a764203e",
-        "song_link": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
+        "song_link": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR?si=09be048249d34572"
     },
     {
         "song_name": "Foolin' With My Heart",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2737b1fd095ef564833f36263e6",
-        "song_link": "https://open.spotify.com/track/49wu5LkPemhdcHc3oa7Qxz"
+        "song_link": "https://open.spotify.com/track/49wu5LkPemhdcHc3oa7Qxz?si=8dd6195fb716403f"
     },
     {
         "song_name": "The Wolf",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273e8a537f3bdcf99fbc62e65c2",
-        "song_link": "https://open.spotify.com/track/6lOKfGazwl73Guq99zX5aU"
+        "song_link": "https://open.spotify.com/track/6lOKfGazwl73Guq99zX5aU?si=64b5d135567b4b8e"
     },
     {
         "song_name": "Compass",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
-        "song_link": "https://open.spotify.com/track/0YNtAadZvKBBEFARtfoCV8"
+        "song_link": "https://open.spotify.com/track/0YNtAadZvKBBEFARtfoCV8?si=137f0344feb24723"
+    },
+    {
+        "song_name": "Truth or Dare",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d7f6f036e878cf2167b472",
+        "song_link": "https://open.spotify.com/track/12g2LnxAGNtKvemsDfyD5o?si=987607604d0049df"
     },
     {
         "song_name": "Feel The Fiyaaaah (with A$AP Rocky & feat. Takeoff)",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
-        "song_link": "https://open.spotify.com/track/3SsJ17EnPIu1B4GZshqjIS"
+        "song_link": "https://open.spotify.com/track/3SsJ17EnPIu1B4GZshqjIS?si=59d49e808e1f45c3"
     },
     {
         "song_name": "Doomsday",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b2736ce90ec627a0198a8efd127f",
-        "song_link": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA"
+        "song_link": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA?si=f757ff0b332f4a58"
     },
     {
         "song_name": "Your Name",
         "album_cover": "https://i.scdn.co/image/ab67616d0000b273e7aaf3863fcaea624c99a591",
-        "song_link": "https://open.spotify.com/track/68THI9GqF4QhHeYtyPv2qQ"
+        "song_link": "https://open.spotify.com/track/68THI9GqF4QhHeYtyPv2qQ?si=9084c574b2be4558"
+    },
+    {
+        "song_name": "Monophobia II",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27307d74bde9b62f646ada51c4c",
+        "song_link": "https://open.spotify.com/track/2TvPEV0fkBpNXvC8mWCWos?si=deaec63753a44587"
+    },
+    {
+        "song_name": "Revolution is a Blade",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d7f6f036e878cf2167b472",
+        "song_link": "https://open.spotify.com/track/3RBdH33Ak2JOCNoLaIEGFw?si=f6ef5c45e70f4bb5"
+    },
+    {
+        "song_name": "SNOWFLAKES",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739285aef5c0671c98e41c9a57",
+        "song_link": "https://open.spotify.com/track/449GhrIxX2XVMTiG2GIaWd?si=9ac13072c721431d"
+    },
+    {
+        "song_name": "Fool for You",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739fc52033f5eec6c222f71ff6",
+        "song_link": "https://open.spotify.com/track/1dhrfITur8Qr0yx1N6MxRB?si=7ff8b94c8db04a30"
+    },
+    {
+        "song_name": "All the Rain",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e7aaf3863fcaea624c99a591",
+        "song_link": "https://open.spotify.com/track/5r5f24kbC7xQQHV8WP4BRR?si=eddca0fd655542b2"
+    },
+    {
+        "song_name": "Heart of Ice",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ee07023115f822012390d2a0",
+        "song_link": "https://open.spotify.com/track/0wIxgiUk2S1hrwLr5Y0PIt?si=5764e01c5fa84e1c"
+    },
+    {
+        "song_name": "Blunders",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734fa896af80adcff2ee0ecfdb",
+        "song_link": "https://open.spotify.com/track/5RkSdYc8PRqXd91Rf6uFLk?si=014ef690dd8c4f18"
+    },
+    {
+        "song_name": "Umbrella (with 21 Savage & Young Nudy)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+        "song_link": "https://open.spotify.com/track/2Yt4SXIgmoaPZHGdRafp4P?si=b395fb0b0ab349a2"
+    },
+    {
+        "song_name": "Waiting for Your Call",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27307d74bde9b62f646ada51c4c",
+        "song_link": "https://open.spotify.com/track/3qWMaKvO9rQfxYtGisKuHI?si=d6b708a0dd264fb0"
+    },
+    {
+        "song_name": "Got Your Tail",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d7f6f036e878cf2167b472",
+        "song_link": "https://open.spotify.com/track/1MIWPMRDRYQsmF3UMD0Zut?si=21b8c542aff242d2"
+    },
+    {
+        "song_name": "Revolution in your Heart",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27348d7f6f036e878cf2167b472",
+        "song_link": "https://open.spotify.com/track/4pMIOwSp00l4xbfT7IikKD?si=de0544654b9d4160"
+    },
+    {
+        "song_name": "From the Start",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e67835d0a5d81fa4f268b513",
+        "song_link": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr?si=a62719af802240e7"
+    },
+    {
+        "song_name": "Waiting for a Girl like You",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3",
+        "song_link": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU?si=06390ce8866c4732"
+    },
+    {
+        "song_name": "LOAF! - Instrumental Version",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739c28dde1bc0cffd0b74930c9",
+        "song_link": "https://open.spotify.com/track/6yt6LiULapN1vqcPIFITD5?si=c2ced186c92e4d11"
+    },
+    {
+        "song_name": "No One Knows",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b62c36a1f8ac00d60f460cc",
+        "song_link": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH?si=4f97c019bbe0436a"
+    },
+    {
+        "song_name": "Heaven",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737d142fe444e31edae1c58a93",
+        "song_link": "https://open.spotify.com/track/76YdWrd7Yw9GuU0LirE088?si=e1f59a0457df4120"
+    },
+    {
+        "song_name": "Babydoll",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735cb0258c29ecc129e5446eae",
+        "song_link": "https://open.spotify.com/track/2tjRs1LOAS4iA4SwoidTYZ?si=3c8b8399bc184701"
+    },
+    {
+        "song_name": "Problematic",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735cb0258c29ecc129e5446eae",
+        "song_link": "https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF?si=25f28d5c3c1747aa"
+    },
+    {
+        "song_name": "Long Drives",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ee07023115f822012390d2a0",
+        "song_link": "https://open.spotify.com/track/1APefTkgjjwQfZbUWQkOFc?si=888f4c52e0ea4962"
+    },
+    {
+        "song_name": "Circles",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273baf5599581e20af293aded51",
+        "song_link": "https://open.spotify.com/track/50Ay3E1BdO6kogIp9aMxr2?si=bc348a41c62d4235"
+    },
+    {
+        "song_name": "Bad Blood",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735cb0258c29ecc129e5446eae",
+        "song_link": "https://open.spotify.com/track/2dNjUIKY9MosYLLD9dpRc0?si=d36142ce4eac4f64"
+    },
+    {
+        "song_name": "I THINK",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
+        "song_link": "https://open.spotify.com/track/4f8Mh5wuWHOsfXtzjrJB3t?si=29b88690b9574bea"
+    },
+    {
+        "song_name": "Lights Off",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27307d74bde9b62f646ada51c4c",
+        "song_link": "https://open.spotify.com/track/3koX3fSnJjiWwvZG6pZCoi?si=a3aa133d60ee4bf0"
+    },
+    {
+        "song_name": "Voicemail",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737818a6e4ce8cb43266d6df0c",
+        "song_link": "https://open.spotify.com/track/70Awba4QAma4gmWGIGkQM2?si=6be2ce194a304976"
+    },
+    {
+        "song_name": "Baby You're Right",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273baf5599581e20af293aded51",
+        "song_link": "https://open.spotify.com/track/08dFJDpbaVI4jZ1cmhb4jH?si=993480dfd1c94512"
+    },
+    {
+        "song_name": "Niagara Falls (Foot or 2) [with Travis Scott & 21 Savage]",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c4fee55d7b51479627c31f89",
+        "song_link": "https://open.spotify.com/track/4WuOWVnAqvEQxgSRrspBgt?si=6fbb93cc6eac44be"
+    },
+    {
+        "song_name": "Watch Your Mouth",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738386795a636d72e74c958590",
+        "song_link": "https://open.spotify.com/track/4DHLopEsKDwQBgucGKJuzj?si=32273311220742b8"
+    },
+    {
+        "song_name": "IDGAF (with blackbear)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ee07023115f822012390d2a0",
+        "song_link": "https://open.spotify.com/track/4ZUpTMKPYFTfJqamWFU9Zv?si=222ad809f16a4cb5"
+    },
+    {
+        "song_name": "Get Around",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27305b14580ebd67f21c7fd68e0",
+        "song_link": "https://open.spotify.com/track/0qLfl1BrhpTALgqAqAuUWH?si=5cfbf321efa040e1"
+    },
+    {
+        "song_name": "Find Me in Your Dreams",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27307d74bde9b62f646ada51c4c",
+        "song_link": "https://open.spotify.com/track/7mOudA3iNHiRclctRuDzSj?si=de018775c90d4a5d"
+    },
+    {
+        "song_name": "Mass Destruction",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731849ae38e29624393c390fb4",
+        "song_link": "https://open.spotify.com/track/4Ni2mtHVH4yvlVRM3KlKfd?si=22593aca5d7a4549"
+    },
+    {
+        "song_name": "GROOVY",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27362edd96972da005f9ba95adf",
+        "song_link": "https://open.spotify.com/track/0fGyxMT044GJjQL4O8UokB?si=6aa28c0696bf4271"
+    },
+    {
+        "song_name": "Your Ex Said You Can't Dance",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27305b14580ebd67f21c7fd68e0",
+        "song_link": "https://open.spotify.com/track/0q00BGwAHojnuz9PEXUahB?si=4acec963630d47a2"
+    },
+    {
+        "song_name": "Brooklyn Bridge To Chorus",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+        "song_link": "https://open.spotify.com/track/2mDYYGaGd9uXKkK2YhDA3i?si=c597757563fe47e8"
+    },
+    {
+        "song_name": "shouldacoulda",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b4833b33335cb4cb8da2082b",
+        "song_link": "https://open.spotify.com/track/6vIMFEjToJUHyAgKK8s6Lk?si=5d7de4ee83b1401d"
+    },
+    {
+        "song_name": "1979 - Remastered 2012",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6",
+        "song_link": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1?si=a3cc2ef1abcd4eb1"
+    },
+    {
+        "song_name": "Ground",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731ba06b70426975adc0505259",
+        "song_link": "https://open.spotify.com/track/6Vjm8aQFfuNmm7jwgCbAoW?si=33f33d37c5b548c5"
+    },
+    {
+        "song_name": "Normal People Things",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733ae2735a930aa2c6431a6ef1",
+        "song_link": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p?si=cff5327cf4f54351"
+    },
+    {
+        "song_name": "Trauma",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735cb0258c29ecc129e5446eae",
+        "song_link": "https://open.spotify.com/track/0pZTLl4ricNSYtK8MfInhG?si=7efa635132c94e2b"
+    },
+    {
+        "song_name": "Rockstar",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735cb0258c29ecc129e5446eae",
+        "song_link": "https://open.spotify.com/track/4hU2UADYSphaQu2NhRO4IG?si=158dd43587ce4dbd"
+    },
+    {
+        "song_name": "Understand",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ee07023115f822012390d2a0",
+        "song_link": "https://open.spotify.com/track/6dGqGkYDoRrKh5UiIcTT22?si=507c74639245436e"
+    },
+    {
+        "song_name": "Migraine",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b11b7834fd604f04afc77350",
+        "song_link": "https://open.spotify.com/track/6T7DCQh0h7yPvoKtCMDKVb?si=11062672e8af4856"
+    },
+    {
+        "song_name": "Kilby Girl",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738386795a636d72e74c958590",
+        "song_link": "https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH?si=23fe8edcbd844d43"
+    },
+    {
+        "song_name": "Maple Syrup",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738386795a636d72e74c958590",
+        "song_link": "https://open.spotify.com/track/4MXE6VCvTsQitHWrAxj7Kg?si=51c31ac99f304ec1"
+    },
+    {
+        "song_name": "Davy Crochet",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738386795a636d72e74c958590",
+        "song_link": "https://open.spotify.com/track/1w9B61OdLdnjzZIUYmy0bd?si=82fa3a8811d24b04"
+    },
+    {
+        "song_name": "Axe to Grind",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39",
+        "song_link": "https://open.spotify.com/track/6uUYdIpODNtc7QbWDLRCeK?si=755b9f21766b4c32"
+    },
+    {
+        "song_name": "Affection",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733c7b93e728351de613fe816b",
+        "song_link": "https://open.spotify.com/track/1lusH0zFDRV1ThaFYsUgfi?si=8d167b59dbeb4942"
+    },
+    {
+        "song_name": "You're All I Want",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734a10d87775c6bb25c8ca068b",
+        "song_link": "https://open.spotify.com/track/4nvLuqwTOZdEJI1fcHXv8h?si=9357db71e4ca401d"
+    },
+    {
+        "song_name": "Falling In Love",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fd275af89cec73d6287f9cbf",
+        "song_link": "https://open.spotify.com/track/0O0bttAxJKKWqAqY2Nq4mC?si=7c72560f1ab8468e"
+    },
+    {
+        "song_name": "Pistol",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ff2267bd3886891025bf1c09",
+        "song_link": "https://open.spotify.com/track/2nD9CUfMMUVxL0UyFs8fGG?si=510385c155df4637"
+    },
+    {
+        "song_name": "Sweet",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161",
+        "song_link": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng?si=46d362ffb4e64769"
+    },
+    {
+        "song_name": "K.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161",
+        "song_link": "https://open.spotify.com/track/1FWsomP9StpCcXNWmJk8Cl?si=22d2d73550764cd2"
+    },
+    {
+        "song_name": "Each Time You Fall in Love",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161",
+        "song_link": "https://open.spotify.com/track/2hIsd0F6ZGfHCC1xa7vSad?si=5dce01aa5b6449c3"
+    },
+    {
+        "song_name": "Apocalypse",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161",
+        "song_link": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX?si=3d1e25e76d5f4c50"
+    },
+    {
+        "song_name": "Flash",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27312b69bf576f5e80291f75161",
+        "song_link": "https://open.spotify.com/track/6VJYENs5BugMc1dCVepivD?si=ebd4fa9497a345b1"
+    },
+    {
+        "song_name": "Tell Her Tonight",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4",
+        "song_link": "https://open.spotify.com/track/3pqRRxH5x9oVPwh9i9UFZA?si=ef914edaa6bc4e50"
+    },
+    {
+        "song_name": "The Dark Of The Matin\u00e9e",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4",
+        "song_link": "https://open.spotify.com/track/6gaWfLDoeG1eoiDAVBN4i8?si=21d0a922d8fd4269"
+    },
+    {
+        "song_name": "Diversionary Tactic",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39",
+        "song_link": "https://open.spotify.com/track/6BwP0gnXT5ZW1hjQOfaGDW?si=c28affb190fa42ea"
+    },
+    {
+        "song_name": "Throw Away Your Mask",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27359a6022f671f929b9979011d",
+        "song_link": "https://open.spotify.com/track/2uNrsZLJloillM1kbzxgmn?si=a7adda15bafe48d4"
+    },
+    {
+        "song_name": "The Vampyre of Time and Memory",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a705b56a83b703453d8ddd04",
+        "song_link": "https://open.spotify.com/track/4yzozDNjvW7acuGonXwfvA?si=e7375c1474b04ff0"
+    },
+    {
+        "song_name": "on & on",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c9910b44cbbaf1f971fc6a54",
+        "song_link": "https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc?si=7882e3b6c5b64900"
+    },
+    {
+        "song_name": "Big Blast Sonic",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d2aef3a3145992dd8820e10d",
+        "song_link": "https://open.spotify.com/track/359iygFElxccgwxWQWTyes?si=ce9f65fdc4194bfe"
+    },
+    {
+        "song_name": "HYAENA",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273881d8d8378cd01099babcd44",
+        "song_link": "https://open.spotify.com/track/0hL9gOw6XBWsygEUcVjxEc?si=9b7f4747f13848b6"
+    },
+    {
+        "song_name": "You Are Stronger",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39",
+        "song_link": "https://open.spotify.com/track/42JySkX0qz4f7XamC4tzGy?si=61787cd7d7ef490f"
+    },
+    {
+        "song_name": "What you wish for",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273baff7ee9b943d1f0bf91ae39",
+        "song_link": "https://open.spotify.com/track/1cVqfZ3r5xsviAe6HKaFGc?si=c7cf91c91bf8432f"
+    },
+    {
+        "song_name": "All Over the World",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f8cf33c9e5666d8d012187f1",
+        "song_link": "https://open.spotify.com/track/2oOn6kpZibg80FTdkcS1Zn?si=0739d72eb57e4644"
+    },
+    {
+        "song_name": "Bullet",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f85c427ae396ec88898572f5",
+        "song_link": "https://open.spotify.com/track/5X9DtVEeUWpfPgSwhbyxXk?si=187f7898a30641b1"
+    },
+    {
+        "song_name": "Marceline",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27330328b035f2dd3e67621b6d5",
+        "song_link": "https://open.spotify.com/track/3OJ0qtEbfXrqSWizwfKkaZ?si=18b07cb7b02242b7"
+    },
+    {
+        "song_name": "Foreword (feat. Rex Orange County)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+        "song_link": "https://open.spotify.com/track/33i3xxHB4YSYGYbtJrwwO8?si=191981e0c9e64363"
+    },
+    {
+        "song_name": "See You Again (feat. Kali Uchis)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738940ac99f49e44f59e6f7fb3",
+        "song_link": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB?si=448199feca62439c"
+    },
+    {
+        "song_name": "Welcome To Japan",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f07ef193e0bb6a238ea37f0a",
+        "song_link": "https://open.spotify.com/track/7bfocP7GYoLOutUYpTI8tx?si=1c97d09be35b4ada"
+    },
+    {
+        "song_name": "Infrunami",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c3545bbe806b845c2b52bc20",
+        "song_link": "https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp?si=7dabc73542f04577"
+    },
+    {
+        "song_name": "Thank You, New Jersey",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273cd6ffe1745a3a8d5b28bffd8",
+        "song_link": "https://open.spotify.com/track/46ikQYyoGkP6qwtRgikXQi?si=2288999580b843c2"
+    },
+    {
+        "song_name": "Potholderz",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
+        "song_link": "https://open.spotify.com/track/1VZUXXUGqIxePaMUXkabRn?si=0b9e217ffdcd414d"
+    },
+    {
+        "song_name": "It's Golden Hour Somewhere",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b78e84a1e2812dc23b5a9ed",
+        "song_link": "https://open.spotify.com/track/5svlHzZ0RmofmMdOXYHxpa?si=231f0e09459941d0"
+    },
+    {
+        "song_name": "Consequences",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b78e84a1e2812dc23b5a9ed",
+        "song_link": "https://open.spotify.com/track/2AIYBoud4MKVYm1hofkp6v?si=908afcca98b2479a"
+    },
+    {
+        "song_name": "Warsaw",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b78e84a1e2812dc23b5a9ed",
+        "song_link": "https://open.spotify.com/track/09D359J8meGFVXIII0mveC?si=685ad94a99014593"
+    },
+    {
+        "song_name": "Outsiders",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27392c508bc5a40ea588bcaed38",
+        "song_link": "https://open.spotify.com/track/7hB6SkmugPK198kpgxDkDA?si=128ab052ece049db"
+    },
+    {
+        "song_name": "Risk",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27372c2145d48f68917a7361b15",
+        "song_link": "https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ?si=bdb21ce26cc74ff4"
+    },
+    {
+        "song_name": "Affection",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27360a8aaa49e86772697854949",
+        "song_link": "https://open.spotify.com/track/4eVNSHRazoHgfYGv3AYFyZ?si=cd8d3972027e4205"
+    },
+    {
+        "song_name": "Tokyo Smoke",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27388883701231713b18429f80b",
+        "song_link": "https://open.spotify.com/track/3POYMPJ0HJGtBc7aO2H7QV?si=a9e61d1260974dea"
+    },
+    {
+        "song_name": "Pool House",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738386795a636d72e74c958590",
+        "song_link": "https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq?si=4368744c1799406d"
+    },
+    {
+        "song_name": "Catapult",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732ca8ef8a01b48f0a3b560956",
+        "song_link": "https://open.spotify.com/track/7f1ljYFKKfNKaec4IS6M7I?si=6b9c7a7d38ab4a1e"
+    },
+    {
+        "song_name": "Amoeba",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ba6f89eceb0df4d0d263eeb",
+        "song_link": "https://open.spotify.com/track/4fO7d2FuUIb9YNhNh2HW2A?si=7a889b8df0554e6c"
+    },
+    {
+        "song_name": "Intro",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a569c3d00d2b2abf29183fe9",
+        "song_link": "https://open.spotify.com/track/7lWtXhkiDCmM9bshHRg3yc?si=e3ea3db9f6d74841"
+    },
+    {
+        "song_name": "New Gold (feat. Tame Impala and Bootie Brown)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734b0ddebba0d5b34f2a2f07a4",
+        "song_link": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3?si=3b6f510d064f4c61"
+    },
+    {
+        "song_name": "Denny's Garage",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738740f0366b44568189e30150",
+        "song_link": "https://open.spotify.com/track/4oD8WLd2vnV8ioZ7TdZz9J?si=b7734a2732e849f6"
+    },
+    {
+        "song_name": "Bossa Nova Corps",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273cb52ad10ec66268e5dca73f1",
+        "song_link": "https://open.spotify.com/track/7o4BIVzqjcUnY8jGPD99sK?si=744bec191e0c4750"
+    },
+    {
+        "song_name": "Raspberry Beret",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273cc6495584fb0e2261ee95868",
+        "song_link": "https://open.spotify.com/track/2I1W3hcSsPIsEJfD69pHrW?si=16277d0784434cc7"
+    },
+    {
+        "song_name": "That's All - 2007 Remaster",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273945c366eda66495226e4a46d",
+        "song_link": "https://open.spotify.com/track/2zFdsAIk9r2Mi7Lmm1w3sM?si=a7be4984ee8e457b"
+    },
+    {
+        "song_name": "Kokomo",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c5634c0532097e175199f07e",
+        "song_link": "https://open.spotify.com/track/5qHYXcVvc9xsFB2uH7GpMN?si=a3850117b01d48e2"
+    },
+    {
+        "song_name": "Burnin' for You",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736895da04b237964b95c2a166",
+        "song_link": "https://open.spotify.com/track/3fkPMWQ6cBNBLuFcPyMS8s?si=0023c601b9e54b10"
+    },
+    {
+        "song_name": "Curious",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730213e3c607e7f5e828bd7efb",
+        "song_link": "https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF?si=ec210720acd54673"
+    },
+    {
+        "song_name": "Love Illumination",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f85c427ae396ec88898572f5",
+        "song_link": "https://open.spotify.com/track/06Qha323s06okpZ4LmMX7P?si=0ea46b62a2954e19"
+    },
+    {
+        "song_name": "Anyone In Love",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d03bfb06e3b5da9348e41226",
+        "song_link": "https://open.spotify.com/track/7hNFLJTUgmjnlO0LHRdRyC?si=7f9bf98556e7436e"
+    },
+    {
+        "song_name": "No You Girls",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730213e3c607e7f5e828bd7efb",
+        "song_link": "https://open.spotify.com/track/0EumGu61Q3uk370CALAMCD?si=0ed3a2cc3f254c0f"
+    },
+    {
+        "song_name": "Evil Eye",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f85c427ae396ec88898572f5",
+        "song_link": "https://open.spotify.com/track/6NlE71TbUglmKQVLhE1H8R?si=d01e1fda384346d7"
+    },
+    {
+        "song_name": "Let You Down",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273eabff83e8175f68e47cb18c8",
+        "song_link": "https://open.spotify.com/track/1qpGMJi0ippCaMUOs7cz2q?si=9e460aec62df4ece"
+    },
+    {
+        "song_name": "Where Did Your Love Go?",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730402b696ff17a7fd1af764f6",
+        "song_link": "https://open.spotify.com/track/0rk2mVmQWd0mMQWZZRXtfe?si=1b52dd93d099478a"
+    },
+    {
+        "song_name": "Call Me What You Like",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b78e84a1e2812dc23b5a9ed",
+        "song_link": "https://open.spotify.com/track/2QF8FbGBTXTzm0CRUWqndE?si=386e35d0e78249e1"
+    },
+    {
+        "song_name": "Scum",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b78e84a1e2812dc23b5a9ed",
+        "song_link": "https://open.spotify.com/track/7q8SL80IIse5dgjCQ9qHAJ?si=ff1356c270df4fb3"
+    },
+    {
+        "song_name": "Violet",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b2b05168e86b0af78ede0d97",
+        "song_link": "https://open.spotify.com/track/1v3SmmWX9lHYGXii4SmAts?si=912e423e86a1443a"
+    },
+    {
+        "song_name": "Nie Pytaj Nas",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27337fa1a03b25fc13956269e20",
+        "song_link": "https://open.spotify.com/track/69wEYimYC9XP2wRX20NPSz?si=bce1d97accd84d6c"
+    },
+    {
+        "song_name": "This fffire - New Version",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27344fadeb140014c49e807c468",
+        "song_link": "https://open.spotify.com/track/46gSk82duJtX3TTA182ruG?si=72a33662a7ac42dc"
+    },
+    {
+        "song_name": "Bohemian Rhapsody",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735a7602f0e508660b2ba40f8c",
+        "song_link": "https://open.spotify.com/track/6l8GvAyoUZwWDgF1e4822w?si=4999ebb7ed9243f6"
+    },
+    {
+        "song_name": "Portrait of a Blank Slate",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b78e84a1e2812dc23b5a9ed",
+        "song_link": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC?si=017a377d71fa40ae"
+    },
+    {
+        "song_name": "Each Time You Fall In Love",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736b701428ed4c6e053902174a",
+        "song_link": "https://open.spotify.com/track/6YbqjyoqQx9p13IndkOzeP?si=28cce5ba125e4caf"
+    },
+    {
+        "song_name": "Juke Box Hero",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733cd67ccf241ae843f6da62f3",
+        "song_link": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2?si=ba773a1480754b33"
+    },
+    {
+        "song_name": "(I Just) Died In Your Arms",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b44a04404923d0361d8f8299",
+        "song_link": "https://open.spotify.com/track/0YPXkQthLWrhNGoKTbwCJ8?si=0f9e26c515b44a6b"
+    },
+    {
+        "song_name": "December, 1963 (Oh What a Night!)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273206e2e76c3a706e4734d18ab",
+        "song_link": "https://open.spotify.com/track/1hQFF33xi8ruavZNyovtUN?si=ea13061addbc49c5"
+    },
+    {
+        "song_name": "Ain't No Rest for the Wicked",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e4800c920780ac18d4ab6730",
+        "song_link": "https://open.spotify.com/track/3Pzh926pXggbMe2ZpXyMV7?si=e753dd943ef54f93"
+    },
+    {
+        "song_name": "Down with the King",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27331f2bc61e22637b0e67e1fe5",
+        "song_link": "https://open.spotify.com/track/0VMojdcDH7VH5MiznucsFa?si=ced672c25297434d"
+    },
+    {
+        "song_name": "Slingshot",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27331f2bc61e22637b0e67e1fe5",
+        "song_link": "https://open.spotify.com/track/30HoirLaykpLwFmGXfh21r?si=37014e04bdb64d3f"
+    },
+    {
+        "song_name": "Atlas",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730cd731a1f26b2e2656aa3d04",
+        "song_link": "https://open.spotify.com/track/263Xoh4AGJbXg5nNZsy7eX?si=9f1387b14aa64e24"
+    },
+    {
+        "song_name": "Everything Everything",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27331f2bc61e22637b0e67e1fe5",
+        "song_link": "https://open.spotify.com/track/4rNsyPKS7rgSMnBebVIaso?si=f45e2ac833df4f24"
+    },
+    {
+        "song_name": "Faster",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730cd731a1f26b2e2656aa3d04",
+        "song_link": "https://open.spotify.com/track/0yWZNa6e7rAXPyTj0RddKO?si=c47fec37174944bb"
+    },
+    {
+        "song_name": "Pox",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27331f2bc61e22637b0e67e1fe5",
+        "song_link": "https://open.spotify.com/track/3vMMo1I86Si32J0Sem19d8?si=8b2821160bbf4165"
+    },
+    {
+        "song_name": "Carry on Wayward Son",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51",
+        "song_link": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw?si=ec2ee1068465466f"
+    },
+    {
+        "song_name": "Aloe Lite",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27331f2bc61e22637b0e67e1fe5",
+        "song_link": "https://open.spotify.com/track/0TpJF2IIk9idRMJuSSXMLh?si=c0a873d93503475d"
+    },
+    {
+        "song_name": "Peaches",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c21aa4015cb02b6b8eca09a4",
+        "song_link": "https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6?si=99671f01b66d44a7"
+    },
+    {
+        "song_name": "Colors Flying High",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27359a6022f671f929b9979011d",
+        "song_link": "https://open.spotify.com/track/7fK9w5ebymfjG8hk18UOUY?si=b19644d884914279"
+    },
+    {
+        "song_name": "Dream On",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b11078ee23dcd99e085ac33e",
+        "song_link": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe?si=88d826b0ccec472e"
+    },
+    {
+        "song_name": "Smooth Sailing",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a705b56a83b703453d8ddd04",
+        "song_link": "https://open.spotify.com/track/5fb0p81SAZBkZEvmLAfGKz?si=d10bb1ac0d8a4ad9"
+    },
+    {
+        "song_name": "Better Off",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273463c91aa7a72e2dcd08eeb13",
+        "song_link": "https://open.spotify.com/track/2k3s15ZMRhdwiRznkJtTWE?si=c1e48663b6c6456e"
+    },
+    {
+        "song_name": "Mine Diamonds",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273eba0fa4b5878ed8afdb65964",
+        "song_link": "https://open.spotify.com/track/65ezkm2CfwVsYVhaymLrUB?si=154dd40f78344ab8"
+    },
+    {
+        "song_name": "Danny DeVito",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734959e88229ede892781bfe59",
+        "song_link": "https://open.spotify.com/track/0alGemxqL6REukdnNgIZP0?si=a7681ea594154125"
+    },
+    {
+        "song_name": "Madeleine",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733993917b348efb41b8576ea9",
+        "song_link": "https://open.spotify.com/track/38tYdtTtgWVEWwrzHj1K53?si=b91a819103c049a1"
+    },
+    {
+        "song_name": "Osmosis",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733993917b348efb41b8576ea9",
+        "song_link": "https://open.spotify.com/track/7BDPv8Z4CzJFRnwWmB6C8y?si=413906bd323b4d92"
+    },
+    {
+        "song_name": "Proud",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27354a319ce52531dcb19c41c39",
+        "song_link": "https://open.spotify.com/track/14bkozr2M41OUMW7pGXQbF?si=eda11c3a7fad4a99"
+    },
+    {
+        "song_name": "Messages from the Stars",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273777be0adc315d87130c1e211",
+        "song_link": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1?si=2fe437433bf24fb3"
+    },
+    {
+        "song_name": "We Didn't Start the Fire",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4",
+        "song_link": "https://open.spotify.com/track/3Cx4yrFaX8CeHwBMReOWXI?si=696e1282a6ae4f4d"
+    },
+    {
+        "song_name": "I'm Still Standing",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89",
+        "song_link": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2?si=585783aa49d9402d"
+    },
+    {
+        "song_name": "Panama - 2015 Remaster",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
+        "song_link": "https://open.spotify.com/track/05RgAMGypEvqhNs5hPCbMS?si=bced77a1ef904be2"
+    },
+    {
+        "song_name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+        "song_link": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY?si=592fbf259c1942e3"
+    },
+    {
+        "song_name": "Piano Man",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+        "song_link": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ?si=84c62273ed7d4703"
+    },
+    {
+        "song_name": "We Built This City",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac",
+        "song_link": "https://open.spotify.com/track/6OnfBiiSc9RGKiBKKtZXgQ?si=06c8b13be2a34eef"
+    },
+    {
+        "song_name": "Livin' On A Prayer",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac",
+        "song_link": "https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF?si=0d3c045c83d7443f"
+    },
+    {
+        "song_name": "Don't Stop Me Now",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730b7c95b538308aebf58cc4f6",
+        "song_link": "https://open.spotify.com/track/43DHLzDkncpby82Po5jlOZ?si=66083b6d5ff44038"
+    },
+    {
+        "song_name": "Sweet",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736b701428ed4c6e053902174a",
+        "song_link": "https://open.spotify.com/track/3VSYkAf6f46i5ZkXOHORq1?si=90fd1426a46d4880"
+    },
+    {
+        "song_name": "trouble",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e864846ed3fe7ad0e83a0bb9",
+        "song_link": "https://open.spotify.com/track/3wRl0bftAjI5EG7GNke1Y0?si=ced46ffc9dff4e29"
+    },
+    {
+        "song_name": "Escapism (feat. AJ Michalka, Zach Callison & Grace Rolek)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27394a2bfe2a061b33315643595",
+        "song_link": "https://open.spotify.com/track/6GT0EGXSMiS4s5X9v0EvfG?si=8ff486981f294c4a"
+    },
+    {
+        "song_name": "What I've Done",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736e996745f2c7b8036abef213",
+        "song_link": "https://open.spotify.com/track/18lR4BzEs7e3qzc0KVkTpU?si=576f18aa50c4493e"
+    },
+    {
+        "song_name": "Mimi's Delivery Service",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c7b8b94e2da061f4de2de64d",
+        "song_link": "https://open.spotify.com/track/3yXJjux4ngdBID25f0QIui?si=6b9d21432e374046"
+    },
+    {
+        "song_name": "Brief Encounters",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f85c427ae396ec88898572f5",
+        "song_link": "https://open.spotify.com/track/5ysoOv0fioDRL3LOglSnUO?si=81df5a6cb4b44557"
+    },
+    {
+        "song_name": "I Really Want to Stay at Your House",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a91a5b301baac1f46e6f30eb",
+        "song_link": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm?si=2ad5bd3a679e4257"
+    },
+    {
+        "song_name": "Moon River (Climax Mix) (From \"Bayonetta 2\") - Cover",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738a1d749e774846a365450751",
+        "song_link": "https://open.spotify.com/track/2dxsQgdXmBKKGU5wcKdsbB?si=baf9bad3cae94e47"
+    },
+    {
+        "song_name": "Storyteller",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d2aef3a3145992dd8820e10d",
+        "song_link": "https://open.spotify.com/track/0LxbelR6d705yqYmshZHzw?si=fbe063b287e64c65"
+    },
+    {
+        "song_name": "Interplanetary Spark",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273768a44758645becee3156ca3",
+        "song_link": "https://open.spotify.com/track/6DOH2ccuJBh0ffaZ6h4Shu?si=d7ef5a9f2a20478e"
+    },
+    {
+        "song_name": "Fist Bump",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731f47a2edf009c94a50002051",
+        "song_link": "https://open.spotify.com/track/4iUhWQov4bIajEuuDcxJBB?si=81c75cdfa67844b9"
+    },
+    {
+        "song_name": "Rivers In the Desert",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732a061f8cc383443cbb46adf6",
+        "song_link": "https://open.spotify.com/track/6rgIKCKKCnhyaNTgmY73tq?si=bec406f912414076"
+    },
+    {
+        "song_name": "Sneakman",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273714e3e65bc3ae745db4a35be",
+        "song_link": "https://open.spotify.com/track/1gmtfgxBXMkRoTk7mNuJ9K?si=f206296a6ee443a1"
+    },
+    {
+        "song_name": "K.",
+        "album_cover": "https://i.scdn.co/image/3eefca0493e78bc4cd396ae714ac5436e4cda839",
+        "song_link": "https://open.spotify.com/track/36Zs84njjWZD3TGYE77WPC?si=26e4e2c4548845b8"
+    },
+    {
+        "song_name": "K.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736b701428ed4c6e053902174a",
+        "song_link": "https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp?si=5ad4204e65e94baf"
+    },
+    {
+        "song_name": "Neon Moon",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738c1c90d4fa431541fe771e78",
+        "song_link": "https://open.spotify.com/track/7laJx5tDtvm3Mkj832oxSb?si=be6a2ed9ef484048"
+    },
+    {
+        "song_name": "Sesame Syrup",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735f592cf31f9602e45c1ddf16",
+        "song_link": "https://open.spotify.com/track/73ROvjXlrsrDcNmCurwWOF?si=e2ed87b7a0ca410c"
+    },
+    {
+        "song_name": "Pistol",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731cb4ba4f38b77478ebc2429a",
+        "song_link": "https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7?si=6bc2ae46052a4bc2"
+    },
+    {
+        "song_name": "Apocalypse",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736b701428ed4c6e053902174a",
+        "song_link": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5?si=3b657116a00a4442"
+    },
+    {
+        "song_name": "Falling In Love",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ced182a9a86195e9ba2a5183",
+        "song_link": "https://open.spotify.com/track/4m1jesCFX1gQtIRFirfwCW?si=5b6ed0072feb44a2"
+    },
+    {
+        "song_name": "Rest Point",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732f42a6eab478c4ba32d008aa",
+        "song_link": "https://open.spotify.com/track/1Vca617evaVrnx2Wy6SAsB?si=6de972ebbb434030"
+    },
+    {
+        "song_name": "Eventually",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+        "song_link": "https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw?si=78e04fda3e344f8a"
+    },
+    {
+        "song_name": "Kirby's Dreamland Lofi",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737289731ce18cbb44feead824",
+        "song_link": "https://open.spotify.com/track/1XP0Yp9cIk1en8NOHmtTbb?si=1e02c340281a4f0d"
+    },
+    {
+        "song_name": "Roar of Dedede Lofi (From \"Kirby and the Forgotten Land\")",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273bb3a94ce926ff2496d21b02a",
+        "song_link": "https://open.spotify.com/track/6KKloPFS0jn0B8yrQE9Joy?si=9d95fa6a0e9e4f34"
+    },
+    {
+        "song_name": "Pepsiman (from Pepsiman)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732d3ded02262f91487d36fa49",
+        "song_link": "https://open.spotify.com/track/7iW6sUEr82PiYeDMPTtaPu?si=62f4973c2d3548d2"
+    },
+    {
+        "song_name": "Halo",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+        "song_link": "https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs?si=74f9955dfc6643f5"
+    },
+    {
+        "song_name": "I'm Not Crazy",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273cfb89b6e9d2840d1da094cf9",
+        "song_link": "https://open.spotify.com/track/0pwpSpYE7sKfQfr8ywDFO9?si=103e38dc454d44bd"
+    },
+    {
+        "song_name": "Real Gone",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a73bb6afa8cb999aafb3c150",
+        "song_link": "https://open.spotify.com/track/45dGKmN6jw7PgK6Dw2rEp2?si=9a1b1834a58b439c"
+    },
+    {
+        "song_name": "Call Me What You Like",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732645d21cce25cea1ac5aedf2",
+        "song_link": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM?si=e966aa733e674fe1"
+    },
+    {
+        "song_name": "Life is a Highway",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273736bf6ecc23fa8601bf79061",
+        "song_link": "https://open.spotify.com/track/02SjT88MukDOa9KuuRuODY?si=351856db0ccc4929"
+    },
+    {
+        "song_name": "Sh-Boom",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27371369e9405316fa8b5fe5d46",
+        "song_link": "https://open.spotify.com/track/6ZKB999ZdaFVgrYWvxkl49?si=ed01877118f247eb"
+    },
+    {
+        "song_name": "Taken for a Fool",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697",
+        "song_link": "https://open.spotify.com/track/6SdAztAqklk1zAmUHhU4N7?si=d52f4c896adf4378"
+    },
+    {
+        "song_name": "Ocean Avenue",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d1fd8f264564d9eef7617a45",
+        "song_link": "https://open.spotify.com/track/23oxJmDc1V9uLUSmN2LIvx?si=1824dd969eda46fa"
+    },
+    {
+        "song_name": "You Only Live Once",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736898a982ff3c6049ba52586c",
+        "song_link": "https://open.spotify.com/track/4fPBB44eDH71YohayI4eKV?si=5af31d71487e42c9"
+    },
+    {
+        "song_name": "Reflections",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739b6ac98a52f62d5cb473da40",
+        "song_link": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV?si=3af02c0b29344b95"
+    },
+    {
+        "song_name": "First Rate Town",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739e466f8262ef856bc5b70260",
+        "song_link": "https://open.spotify.com/track/1P59E9uaeejHQ5xu0EG4p6?si=1d536fce98af4b6f"
+    },
+    {
+        "song_name": "Stop The World I Wanna Get Off With You",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27317997aeea63f3135e3c07e09",
+        "song_link": "https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet?si=99674b30ac4e4e1b"
+    },
+    {
+        "song_name": "Why Are Sundays So Depressing",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+        "song_link": "https://open.spotify.com/track/1aOxOpH4AkGAd8OMrKjyNY?si=c03ae76412304a5f"
+    },
+    {
+        "song_name": "Feels Like We Only Go Backwards",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+        "song_link": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW?si=303441c7cb7a4bb6"
+    },
+    {
+        "song_name": "R U Mine?",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "song_link": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE?si=86c298694ca14e3a"
+    },
+    {
+        "song_name": "One For The Road",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "song_link": "https://open.spotify.com/track/6wNUBZNWFxdUGof6vkaykE?si=cdcacea6e37443a0"
+    },
+    {
+        "song_name": "Teddy Picker",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+        "song_link": "https://open.spotify.com/track/4OkPamOn5GofkOQu64Z4eR?si=e2ae3c14d9d843b0"
+    },
+    {
+        "song_name": "Take It or Leave It",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+        "song_link": "https://open.spotify.com/track/43O3Iu8mDJy10i6k8SVRXX?si=cf26ebd36f474ec4"
+    },
+    {
+        "song_name": "Take Me Out",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27309a90531b85be7899c3234c4",
+        "song_link": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN?si=5c5377e85bc54e37"
+    },
+    {
+        "song_name": "Fluorescent Adolescent",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+        "song_link": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM?si=090544b325f14ec6"
+    },
+    {
+        "song_name": "Under Cover of Darkness",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697",
+        "song_link": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c?si=c10a5da4c1354ec0"
+    },
+    {
+        "song_name": "505",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730c8ac83035e9588e8ad34b90",
+        "song_link": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS?si=5f3c05b2bc9246d0"
+    },
+    {
+        "song_name": "Give You the World",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee",
+        "song_link": "https://open.spotify.com/track/0J119Oas2ox6JTTHUGZxHN?si=e3901adce9634bd5"
+    },
+    {
+        "song_name": "Telescope",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+        "song_link": "https://open.spotify.com/track/0tkBOcK7oRVXQJY97zzSvr?si=98fb3f241cd74f8f"
+    },
+    {
+        "song_name": "Come a Little Closer",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+        "song_link": "https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0?si=35c7d5b7051e4eb6"
+    },
+    {
+        "song_name": "Spiderhead",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+        "song_link": "https://open.spotify.com/track/5r5Lj2MkgwQJz6TaBdL865?si=ef3c5c66e3274649"
+    },
+    {
+        "song_name": "Cigarette Daydreams",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+        "song_link": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0?si=65a4098394e646c6"
+    },
+    {
+        "song_name": "Snap Out Of It",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "song_link": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY?si=87afa700b9974968"
+    },
+    {
+        "song_name": "C U Girl",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273447d52024a6ac588ad418ae5",
+        "song_link": "https://open.spotify.com/track/6FBzhcfgGacfXF3AmtfEaX?si=d3d5544506c44aab"
+    },
+    {
+        "song_name": "Rock the House",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c73a7bb15f43bae86215934b",
+        "song_link": "https://open.spotify.com/track/5GxqKrG0zeKA8uYJMjXwj9?si=81139a3758cf41ee"
+    },
+    {
+        "song_name": "Static",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee",
+        "song_link": "https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem?si=d34e4acf2ec643de"
+    },
+    {
+        "song_name": "Arabella",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "song_link": "https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ?si=e627944619ec41ca"
+    },
+    {
+        "song_name": "Alone, Together",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+        "song_link": "https://open.spotify.com/track/4UmJMAY5TqXPAnsDW1Mci7?si=904c0bcbd8c843a3"
+    },
+    {
+        "song_name": "Do I Wanna Know?",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "song_link": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst?si=9978c5406e8c4e9c"
+    },
+    {
+        "song_name": "I Wanna Be Yours",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "song_link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n?si=820d80198f6049e7"
+    },
+    {
+        "song_name": "Someday",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+        "song_link": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI?si=3cc00e291eb34228"
+    },
+    {
+        "song_name": "19-2000",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c73a7bb15f43bae86215934b",
+        "song_link": "https://open.spotify.com/track/1kSWrMDt439cT64WpjJigW?si=ae483c6f68924494"
+    },
+    {
+        "song_name": "Trying Your Luck",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+        "song_link": "https://open.spotify.com/track/5KupfEBaVJwL7D2ZN0n1Q1?si=bddbbda47a96484e"
+    },
+    {
+        "song_name": "Take It Or Leave It",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+        "song_link": "https://open.spotify.com/track/0seTertVGvHrEJu7hlIWRq?si=1fbf270db8b54cbf"
+    },
+    {
+        "song_name": "The Adults Are Talking",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+        "song_link": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW?si=5a312af4935046c6"
+    },
+    {
+        "song_name": "No. 1 Party Anthem",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "song_link": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S?si=08ce2acd41f04609"
+    },
+    {
+        "song_name": "Why'd You Only Call Me When You're High?",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "song_link": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9?si=e55cf2db26a74a1b"
+    },
+    {
+        "song_name": "Last Nite",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+        "song_link": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv?si=cb46d8e8c20d4aab"
+    },
+    {
+        "song_name": "Knee Socks",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+        "song_link": "https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG?si=ed7e45aef5214c7a"
+    },
+    {
+        "song_name": "Is This It",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
+        "song_link": "https://open.spotify.com/track/0jBE7Fn78EAvmIs3dCd6GO?si=a9513c26b6ed42fc"
+    },
+    {
+        "song_name": "10:36",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+        "song_link": "https://open.spotify.com/track/0P4OHmZ7t092na79ElH7F5?si=f2b255f8b2ce43e4"
+    },
+    {
+        "song_name": "Cologne",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273110bbc10d8188cf73b3d336c",
+        "song_link": "https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy?si=876355a2ac874688"
+    },
+    {
+        "song_name": "Pictures of Us",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+        "song_link": "https://open.spotify.com/track/2VL573wd9nlqXYHaQoFXfV?si=4b127113e47a4a14"
+    },
+    {
+        "song_name": "Clint Eastwood",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f6c46838e4425ea96e2562fe",
+        "song_link": "https://open.spotify.com/track/1RKUoGiLEbcXN4GY4spQDx?si=21db2170da5540b8"
+    },
+    {
+        "song_name": "Crazy my Beat",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730c2f9c0ccab7650d53368b4f",
+        "song_link": "https://open.spotify.com/track/7oerymdzyu2uCo4HVzdNF8?si=3cdc6c685f9e4069"
+    },
+    {
+        "song_name": "Dark Red",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733d2dfa42f771cd458b194979",
+        "song_link": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa?si=d4dd6ac9c1b14ab7"
+    },
+    {
+        "song_name": "Turbulent",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733cd2ff03a508f5314a626701",
+        "song_link": "https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1?si=de898532fc974adf"
+    },
+    {
+        "song_name": "Bad Habit",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739904ecb0b1148a128bdd5e36",
+        "song_link": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK?si=fbe273af75bd4b85"
+    },
+    {
+        "song_name": "Penelope",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736f1971e66b009315dfc3d44d",
+        "song_link": "https://open.spotify.com/track/0DyZx471Ab72xTOFE47q9h?si=1aaba796522f4bc8"
+    },
+    {
+        "song_name": "Marigolds",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273842184f23cedcf477a7de90b",
+        "song_link": "https://open.spotify.com/track/6jDjdfe7npTAxfwVq2HRfr?si=251dd8be25924366"
+    },
+    {
+        "song_name": "Virtual Insanity",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738e17f9583f2c3cb003a5b8f2",
+        "song_link": "https://open.spotify.com/track/24SUWisv2lYQiB3bVpE1sn?si=71a486eaddbb4bc2"
+    },
+    {
+        "song_name": "\u300e82.99 F.M\u300f",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a6217042260782852a34daab",
+        "song_link": "https://open.spotify.com/track/76YGvWy36ftupwff9SCl7J?si=9a102ed8712d4e30"
+    },
+    {
+        "song_name": "Ba-Da-Ba",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27352f54296b90eee374de846e3",
+        "song_link": "https://open.spotify.com/track/5RUJ1B8Yrh7w4PT0W8KVPk?si=fa3ed9d71a4d4a75"
+    },
+    {
+        "song_name": "Heaven\u2019s falling down",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e6de2b5dd6bd6f02135a520b",
+        "song_link": "https://open.spotify.com/track/5viPEz1dLOhTXNEeZEscGH?si=0ebb2d0b6b374917"
+    },
+    {
+        "song_name": "KICK BACK",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273303d8545fce8302841c39859",
+        "song_link": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG?si=37b11274013d4b23"
+    },
+    {
+        "song_name": "Computer Talk",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731cbd49da7ef6a14be8b81123",
+        "song_link": "https://open.spotify.com/track/3nBdKOCyGeggD4fyTRHGdb?si=9bfd693f772c42d5"
+    },
+    {
+        "song_name": "Clarity",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273bf0189492c315fb2f21b8aba",
+        "song_link": "https://open.spotify.com/track/2JbCwqzzPOdJU0bbEOgxid?si=35f5f483db46459f"
+    },
+    {
+        "song_name": "Good Love (Feel Like This)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d969529f06df5b2d680f8374",
+        "song_link": "https://open.spotify.com/track/3BevPBbtE9HyrSh2zlk2bL?si=61c7acbf6ecf45bc"
+    },
+    {
+        "song_name": "Slow Dance",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e86e3de63a5956b252f3c73d",
+        "song_link": "https://open.spotify.com/track/1MD8OVelSJTrafPrizEaTQ?si=16bcb37019c04654"
+    },
+    {
+        "song_name": "FUCK ABOUT IT (feat. blackbear)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27347821b7d9f722d399f08165c",
+        "song_link": "https://open.spotify.com/track/3MOKBkpsarb0AfAABcLAsn?si=60da1d3b64a64479"
+    },
+    {
+        "song_name": "Falling in Love at Wii Sports Resort",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737818a6e4ce8cb43266d6df0c",
+        "song_link": "https://open.spotify.com/track/2rvJOzHoUcHDrmf1RlZRn4?si=41b0140a5a264720"
+    },
+    {
+        "song_name": "March Winds & April Showers",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27385ba7c31769d774bc085c361",
+        "song_link": "https://open.spotify.com/track/1fcOMLkyQwyPbGOvMTk7kY?si=630eac2c358543f4"
+    },
+    {
+        "song_name": "Uragirimonono Requiem - Diavolo Ver.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e9a7a02e91fa18655cfd254f",
+        "song_link": "https://open.spotify.com/track/4CoTazwZS0VXFHgqgmVT85?si=8e61cd2c042a4dc8"
+    },
+    {
+        "song_name": "I Want You",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27384fef39a9a8293c86796599f",
+        "song_link": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N?si=d95f4b0943f94ae1"
+    },
+    {
+        "song_name": "City Nights",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a8f0d1dbd1438d4d3254917b",
+        "song_link": "https://open.spotify.com/track/2odsXAdhejmU7zlBRF3KcA?si=278701bbe3084905"
+    },
+    {
+        "song_name": "F.O.M.O.",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27350d628e63300eb535e86c2b1",
+        "song_link": "https://open.spotify.com/track/2I2oQwW0HzlBNxFAo7j6C8?si=9dd915c29e0b4c7e"
+    },
+    {
+        "song_name": "Acid Girl",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738e05741c1f98bab13a61ba36",
+        "song_link": "https://open.spotify.com/track/3GRVS9r0lLaH1FFZUqSra0?si=6472243acb6840df"
+    },
+    {
+        "song_name": "Shampoo Bottles",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27335c3de6175656a6abf864ce5",
+        "song_link": "https://open.spotify.com/track/2INUkDPCO1eQlOFmIN5VAC?si=263bd2631dc44206"
+    },
+    {
+        "song_name": "If It Were Me",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732878d4b943056a1e5e0985cc",
+        "song_link": "https://open.spotify.com/track/7lDPr3wYYKewaye3RHRXZx?si=06f1f922f58e4f15"
+    },
+    {
+        "song_name": "I'm Just a Kid",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fbee462a3aa4e7ea05e07aa5",
+        "song_link": "https://open.spotify.com/track/6otiaV2fagE3s8IvP6WkwG?si=8447bb57abc744cd"
+    },
+    {
+        "song_name": "violet - v2",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27393a4832b31d997b8733796a5",
+        "song_link": "https://open.spotify.com/track/26LxrLp64m9teL5En1lY1u?si=9037277f66f14566"
+    },
+    {
+        "song_name": "My Caustic Ego",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27305543df0a170ca971a033b54",
+        "song_link": "https://open.spotify.com/track/1q2exl7rpDW3Zb4F8dS5GA?si=b810dfaa89684de0"
+    },
+    {
+        "song_name": "Take 3",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27395fe7bef6fb42f0d22490486",
+        "song_link": "https://open.spotify.com/track/6tDKAgPtT6H0zuRGPnkpmW?si=38fb6b3e17d7459a"
+    },
+    {
+        "song_name": "Stupid for You",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b6cf93c5ed13fd99849d93bc",
+        "song_link": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR?si=14bcfee094444043"
+    },
+    {
+        "song_name": "Neverland",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733c74ee0c6ab83556f45462e3",
+        "song_link": "https://open.spotify.com/track/5m0uWrm9gp38F81BR6sNvd?si=d099e4260d1b4593"
+    },
+    {
+        "song_name": "CANINE",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273751efccea42b2672e4a0338f",
+        "song_link": "https://open.spotify.com/track/2UoQVe54wH7pvRDhaCx8UT?si=61562b571dee4312"
+    },
+    {
+        "song_name": "I Can Tell",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273645eb8fd9fe10910a51f0338",
+        "song_link": "https://open.spotify.com/track/2KpCVL6gtwaKAbyCcwvADp?si=1de2b745710b4b0e"
+    },
+    {
+        "song_name": "Miss Tail",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ed2b4d8111e29c6650be8bbc",
+        "song_link": "https://open.spotify.com/track/07puO0dcOh32cdkr7iu9C4?si=e200600fef4e4f43"
+    },
+    {
+        "song_name": "food court",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27380633f40a01edd4a99de4898",
+        "song_link": "https://open.spotify.com/track/2PUCyydqpoJWjRBDRT5XSg?si=d5961995e5854365"
+    },
+    {
+        "song_name": "Drifting",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fc3731cffd4c7f9e9f50f097",
+        "song_link": "https://open.spotify.com/track/67wWI90Nm2EiSmNKhNykU6?si=c94acd03166742b8"
+    },
+    {
+        "song_name": "Cassette Tape Dream",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273678d89ec1b548459ba2af255",
+        "song_link": "https://open.spotify.com/track/4D8wqdUzClwaWXLWRCv0Vi?si=de6c62ea2b1144e3"
+    },
+    {
+        "song_name": "Killer",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fd955e95759f8a3d5952cb10",
+        "song_link": "https://open.spotify.com/track/21YiaS85ngOoYT773cMFlW?si=c326024f1213407d"
+    },
+    {
+        "song_name": "Dancing in the Scintillation",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273913972bff83fbf1322dd0495",
+        "song_link": "https://open.spotify.com/track/2LqU1NUxxOq3JZQjIeqJfK?si=6651743c22b24778"
+    },
+    {
+        "song_name": "Speed of Light",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27332339ec17caf28e2fd13cecf",
+        "song_link": "https://open.spotify.com/track/1yVv9F33SuNwpuHmK1tnSN?si=6d64b7c9f76c4c14"
+    },
+    {
+        "song_name": "Shampoo Bottles",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738740f0366b44568189e30150",
+        "song_link": "https://open.spotify.com/track/0KX4wOeifiS0LbMp0BRbOQ?si=a9bb8366bef94164"
+    },
+    {
+        "song_name": "Live at the Swamp",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738740f0366b44568189e30150",
+        "song_link": "https://open.spotify.com/track/3ivUmqZPm0QZURi1H4g1EE?si=f888ef89d5524c95"
+    },
+    {
+        "song_name": "Black Licorice",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738740f0366b44568189e30150",
+        "song_link": "https://open.spotify.com/track/4FcAV6S3SNbCrTc3GgIrVo?si=e9cf16a02b6f4e90"
+    },
+    {
+        "song_name": "Adidas",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738740f0366b44568189e30150",
+        "song_link": "https://open.spotify.com/track/6mPcRFTRglL8DWlEqqPhoj?si=7e2416460a7543ee"
+    },
+    {
+        "song_name": "No Time to Explain",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b2aa1b7c398b3b3b6a5d53d2",
+        "song_link": "https://open.spotify.com/track/3LQY0O87BlaOKMp56ST4hC?si=b7a8b3a97ee44f2f"
+    },
+    {
+        "song_name": "3:30am",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27382fe36dc190887d8d3850bab",
+        "song_link": "https://open.spotify.com/track/5YB8Rrvpe9NRI7rOpgUAqb?si=01f6551ecfb1428b"
+    },
+    {
+        "song_name": "Roundabout - 2003 Remaster",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f4174f51268699ef79fbe3da",
+        "song_link": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN?si=13af7da1a050432e"
+    },
+    {
+        "song_name": "Flyday Chinatown",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27375ff9a944d3a08e608853c34",
+        "song_link": "https://open.spotify.com/track/2Oql5y6yNB0XUb8OWbi7pq?si=abb56630818248d4"
+    },
+    {
+        "song_name": "Highlight",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ab9cfd75da6d6e98dfd81d79",
+        "song_link": "https://open.spotify.com/track/1wES4imXXTNAdsrNtesvtI?si=a8827871e5d14343"
+    },
+    {
+        "song_name": "Count What You Have Now",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27359075304010757bf60fb7f61",
+        "song_link": "https://open.spotify.com/track/4XRaGryj589Fee9HqIDwup?si=10e06d24839d4f84"
+    },
+    {
+        "song_name": "Steel Ball Run Johnny Joestar Theme",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27301ff727dac6347f7baa30a6a",
+        "song_link": "https://open.spotify.com/track/7DFd3FrmUA6LPz4b5z5k2p?si=5f0c9a4cd0944b66"
+    },
+    {
+        "song_name": "Twinkle",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273621af858699eab464f2673e8",
+        "song_link": "https://open.spotify.com/track/4WszzBRpu4eKelqLEcAKiJ?si=c116a9dfb7954deb"
+    },
+    {
+        "song_name": "No Stopping Us",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e0ffa61b7e4da8371282a3b5",
+        "song_link": "https://open.spotify.com/track/1JsPHM1qtqk809Z8noVyLy?si=bce8ef0952784a97"
+    },
+    {
+        "song_name": "Take Me by the Hand",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735a261cf119dd6f90330eecfc",
+        "song_link": "https://open.spotify.com/track/3SmkSWNgUw6y1uEtskJbtI?si=f23f0b05dd234636"
+    },
+    {
+        "song_name": "main menu",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a51216e2d5b2b62b8bf0ef56",
+        "song_link": "https://open.spotify.com/track/43dBDwPskkedkUJYcVvvjs?si=4257c6efb3a44a72"
+    },
+    {
+        "song_name": "Grass Eater",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b87f1884a6b367bbab738f84",
+        "song_link": "https://open.spotify.com/track/08VmsF8pxSVk0cWPAGdSj2?si=0008b5e9db914f34"
+    },
+    {
+        "song_name": "Brain Power",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733f6fbbb497c9e701afc6cd30",
+        "song_link": "https://open.spotify.com/track/7fVlbM9hxmv3Omz4UPcsy8?si=ff724f8f153a4e83"
+    },
+    {
+        "song_name": "Sunbathing",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736f941853fbeedc6474b7c6a3",
+        "song_link": "https://open.spotify.com/track/2fMzYz7gWOpSTATF6N3eJG?si=35dfe5badb1d4718"
+    },
+    {
+        "song_name": "Stay",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734eabc8b7e38a0bd886435f95",
+        "song_link": "https://open.spotify.com/track/5Q4HFWgzdVXzTN0bf95s3U?si=7a4e58792070483e"
+    },
+    {
+        "song_name": "Miss Macross",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ea34552ad2126a956d6dc19a",
+        "song_link": "https://open.spotify.com/track/1UMTkDVCP1Osrt9BLj12go?si=50bd7592bd7249ba"
+    },
+    {
+        "song_name": "Gemini",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733dc4dea83c301d7692ced0ab",
+        "song_link": "https://open.spotify.com/track/3rJEu8LZdav4zROLJynwnj?si=e4799a9b5a714e9b"
+    },
+    {
+        "song_name": "Fighting Gold",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739266eb37fbfef94fea1ac068",
+        "song_link": "https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS?si=9fda2d4f69bf4b8b"
+    },
+    {
+        "song_name": "WasteUrTime",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273548ef75e11c9bd302fd7d369",
+        "song_link": "https://open.spotify.com/track/1Nru7nCQ9VyqaEAez3nKmN?si=e6c85e88937a4eab"
+    },
+    {
+        "song_name": "I Keep My Eyes Closed",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737818a6e4ce8cb43266d6df0c",
+        "song_link": "https://open.spotify.com/track/32gLFucirZ4JllpJruzv8H?si=21e3c22e52c54c5e"
+    },
+    {
+        "song_name": "Drawing Myself",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273978a12a1a9120c5b2036468d",
+        "song_link": "https://open.spotify.com/track/2l3261VeoSC5UzKMTGQDJA?si=843fb49e6f2440f7"
+    },
+    {
+        "song_name": "1983",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273861da3aeff234f966aec642f",
+        "song_link": "https://open.spotify.com/track/2lLjpcluDaI7R2IQFvN0c6?si=3a28352b6fc34fc3"
+    },
+    {
+        "song_name": "Graphing",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d811b2e73983adeebc3d03da",
+        "song_link": "https://open.spotify.com/track/4PLNS8DMiEBh63holSaFW0?si=fe788e61f26847f3"
+    },
+    {
+        "song_name": "We Hate It Here",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273cff7d2eb8fb88daff80c1ec9",
+        "song_link": "https://open.spotify.com/track/5kvnZU3ZGxbpTrsUvSZOR0?si=4563f59b9efe46b3"
+    },
+    {
+        "song_name": "Keep Two-Stepping",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27390f51243be80ed7341937922",
+        "song_link": "https://open.spotify.com/track/273QLNes7AQUsoFWKSNlPQ?si=a10b860de94740bc"
+    },
+    {
+        "song_name": "This Life I Have",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f2eaf3f3eb29b12d1da55dcc",
+        "song_link": "https://open.spotify.com/track/6gITSrKq3IyKIMgqU8OjGY?si=3f400dc9658a4442"
+    },
+    {
+        "song_name": "Debt Collector",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273842338b37824859e15021d9b",
+        "song_link": "https://open.spotify.com/track/1IENxZw2N7Fg4GtXarCSxJ?si=2ccf9bde2e5f4e0a"
+    },
+    {
+        "song_name": "Ramen Waitress",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d80350465304247e8b99ea74",
+        "song_link": "https://open.spotify.com/track/2f4AQJ0A6IRWxSxudtzS5k?si=403010dad9534991"
+    },
+    {
+        "song_name": "WAIFU! WAIFU! CHOPPER!",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ed8cfc22279460607e4f4674",
+        "song_link": "https://open.spotify.com/track/7nnXbHvewjFPsTw2aWBeT4?si=3fac0e6fcc3e453d"
+    },
+    {
+        "song_name": "il vento d'oro",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ee07b239264db04dcf5148cd",
+        "song_link": "https://open.spotify.com/track/17VP4tofJ3evJbtY8Tk1Qi?si=1aa4c1f221d74f62"
+    },
+    {
+        "song_name": "Canzoni preferite",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ee07b239264db04dcf5148cd",
+        "song_link": "https://open.spotify.com/track/5aanhLobXHQ8ODj2LBJ077?si=25290705bfba4e87"
+    },
+    {
+        "song_name": "Save Me the Time",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737818a6e4ce8cb43266d6df0c",
+        "song_link": "https://open.spotify.com/track/6PrpOFLpGFv9vaGvx8FUNk?si=0e71280e0ab246a0"
+    },
+    {
+        "song_name": "1987",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738e05741c1f98bab13a61ba36",
+        "song_link": "https://open.spotify.com/track/5t67Tr3Sjup4xmIfY5RqxH?si=f6568c095e8542c8"
+    },
+    {
+        "song_name": "November",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e86e3de63a5956b252f3c73d",
+        "song_link": "https://open.spotify.com/track/1K5TlysjnlLuioJvNtwEhS?si=35ec19bd748e4763"
+    },
+    {
+        "song_name": "Friends",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27323f647232878f207659df09b",
+        "song_link": "https://open.spotify.com/track/5h1cpOdQ6YDnOpSNoYSzft?si=5b6a758218e54e24"
+    },
+    {
+        "song_name": "idwtgtbt",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f27f3e7fc7c593a1c549eae3",
+        "song_link": "https://open.spotify.com/track/6SAQ8ILXyEBqqvSVzvkguS?si=ad124feb1b614683"
+    },
+    {
+        "song_name": "End of It",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27306fbe255bc83bb8fc5de005c",
+        "song_link": "https://open.spotify.com/track/2U94Nj4SVS7TNsUiObLWPm?si=fc2c7cb004ed4a66"
+    },
+    {
+        "song_name": "Down That Road",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731c7a92baefc9ff0e66ea7787",
+        "song_link": "https://open.spotify.com/track/6fGeA9cNR5CYDTSHtsCfgC?si=dca5823db1c340ab"
+    },
+    {
+        "song_name": "subside",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731b92e69b7b9d01b7c7f0c2e4",
+        "song_link": "https://open.spotify.com/track/4n77Y2lzp4oRxNjZOfx3Xt?si=2aec8a352efc4119"
+    },
+    {
+        "song_name": "Indian Style",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273920da1aaa51b7aadabe5f946",
+        "song_link": "https://open.spotify.com/track/7aOzNeVipCifz1gvGZLEGM?si=90dbfbf9ce634c2e"
+    },
+    {
+        "song_name": "Expert",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d803a30c81c1fb2306fc1ce3",
+        "song_link": "https://open.spotify.com/track/44suWWgq5TfyZ52wPVLuHi?si=10fd7718b35747e7"
+    },
+    {
+        "song_name": "the perfect pair",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+        "song_link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a?si=ca03caa55c7d44cb"
+    },
+    {
+        "song_name": "Life is a Highway",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a73bb6afa8cb999aafb3c150",
+        "song_link": "https://open.spotify.com/track/5gB2IrxOCX2j9bMnHKP38i?si=04b236490e53424c"
+    },
+    {
+        "song_name": "52-Hearts",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b442f6403e87ae84300113e4",
+        "song_link": "https://open.spotify.com/track/7DtJpvofUagYQHK6qNc2OJ?si=f430dab9c06a4806"
+    },
+    {
+        "song_name": "Jolyne Theme (from \"Stone Ocean\")",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27383cbea50c115aad288da5df1",
+        "song_link": "https://open.spotify.com/track/7zCAvDu5shJrVCiyNRTUG4?si=0abba4f42687466c"
+    },
+    {
+        "song_name": "Wii Date",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273171dfa5956b988335c6d05ea",
+        "song_link": "https://open.spotify.com/track/2bM3ptRxLbPQngcYwKGDfI?si=1a30eb2b710448c9"
+    },
+    {
+        "song_name": "did too much",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273261b9658e09811c858e2e118",
+        "song_link": "https://open.spotify.com/track/6T01MjAHwJ0ULAcrLDPLnm?si=e81828436cbf4868"
+    },
+    {
+        "song_name": "Grudge",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737f29483d86f2c1e4f69ae877",
+        "song_link": "https://open.spotify.com/track/2qOHOooX5HGfvgWUwXf1OI?si=ef550732cb6a4694"
+    },
+    {
+        "song_name": "Comeuppance",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739488913588a1220bc635819e",
+        "song_link": "https://open.spotify.com/track/17gsya42Clpz7bKNQfqzKm?si=5550889a039a45a9"
+    },
+    {
+        "song_name": "Burnt Out!",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c5d6ffec12ef9abaaff6d4be",
+        "song_link": "https://open.spotify.com/track/20MlUPM7ukHiwhvjYz4asJ?si=14f6edd2bcd34ac6"
+    },
+    {
+        "song_name": "Nevermind (feat. Justin Magnaye)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738e05741c1f98bab13a61ba36",
+        "song_link": "https://open.spotify.com/track/5Qc6v5AqbVmZjXcdMadRRV?si=b4d361f933884980"
+    },
+    {
+        "song_name": "its alright :)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27398990dae0416f36c2f7bc50c",
+        "song_link": "https://open.spotify.com/track/0ITjrJTxJWUVqthwUIOKPZ?si=6595e7f981724166"
+    },
+    {
+        "song_name": "Buffaloes",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732edcab5bdc639c457e62a73a",
+        "song_link": "https://open.spotify.com/track/79vYGC7FForETUvBtd9TCA?si=8c00d608563c4329"
+    },
+    {
+        "song_name": "Coffee",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f877bec9b61fafbf880d3e0b",
+        "song_link": "https://open.spotify.com/track/6WHPgaIiWqPVdKJXaBoeHK?si=b1ee8be03c3f438a"
+    },
+    {
+        "song_name": "Melting Vibes",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737105928246f33fe40f260069",
+        "song_link": "https://open.spotify.com/track/5ig9P3W7ve7979HjfS2UNA?si=1d1d7ec8fbb74d38"
+    },
+    {
+        "song_name": "Beta",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273eb2a5f2f97d43b668a82de8a",
+        "song_link": "https://open.spotify.com/track/5UyG628jm48eYIwfCGLwXj?si=d6ab7a31624a4c8c"
+    },
+    {
+        "song_name": "Roses",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738e05741c1f98bab13a61ba36",
+        "song_link": "https://open.spotify.com/track/6hhySKOBYjOIbW1uNHt8yp?si=e96ac6a476254d79"
+    },
+    {
+        "song_name": "Nothing Has Changed",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731be97803b13fbb53629c26fc",
+        "song_link": "https://open.spotify.com/track/0fDCPVKI1qbTakRBhIOOMW?si=0e71c0f89c684feb"
+    },
+    {
+        "song_name": "Cinematic",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273271f55391c0f4acaa863790d",
+        "song_link": "https://open.spotify.com/track/44NUJ9XMnYmrC1tShksLLY?si=8cd3f8ccfd364607"
+    },
+    {
+        "song_name": "Sheldon Jones (Dont Forget Me)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733dbdc223fa3291cd3ae68c07",
+        "song_link": "https://open.spotify.com/track/4fnFDwWZkO3veYGvkbsBxu?si=ed43f140e0ae4904"
+    },
+    {
+        "song_name": "She Doesn\u2019t Get It",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738b06191e8940b58c810b4dff",
+        "song_link": "https://open.spotify.com/track/1BApHcP5TM5DHAq4gyjqjx?si=d269c90062ac469a"
+    },
+    {
+        "song_name": "Sideways",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d63cbcca3ad46baa55242677",
+        "song_link": "https://open.spotify.com/track/6zS8yVcvfxLjhjAa0ttaQT?si=f3b016b6050442e5"
+    },
+    {
+        "song_name": "Smile",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fe441e2e5584a69fe39a41b0",
+        "song_link": "https://open.spotify.com/track/6HgPV8z2FNoLVQtvJKY5Do?si=4466577df2444c6e"
+    },
+    {
+        "song_name": "Blue Pigz",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27325afeca0d3996be103d27e87",
+        "song_link": "https://open.spotify.com/track/6DJ4ldvkg7YARRSoePhShW?si=190aced8cd1941a8"
+    },
+    {
+        "song_name": "Troubled Mind",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273d811b2e73983adeebc3d03da",
+        "song_link": "https://open.spotify.com/track/1RbdVGt8TF9ovqhTOUO6MG?si=8275feba1f3c4e86"
+    },
+    {
+        "song_name": "ROM Hack",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733c757f91cb73246f96088873",
+        "song_link": "https://open.spotify.com/track/5JNRn9PvZmpBJ1nwkQme3x?si=4bedbc1893e240f8"
+    },
+    {
+        "song_name": "Skeleton Key",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c5547296da4279c0f3a93cc9",
+        "song_link": "https://open.spotify.com/track/3K9a6cp22vv8LLiS2IgjnN?si=d93b44c4f905426a"
+    },
+    {
+        "song_name": "24 Hr Drive-Thru",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c5547296da4279c0f3a93cc9",
+        "song_link": "https://open.spotify.com/track/0ZwS03v4euiMztP9xDLgoO?si=2253b2244653456e"
+    },
+    {
+        "song_name": "Reverse Cowgirl",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27313e741908ed0ef892232b366",
+        "song_link": "https://open.spotify.com/track/1aBouZtfICZ1PRNCtPcdVL?si=9da0e200228f4be9"
+    },
+    {
+        "song_name": "shy",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735726360e37361d62e1f3b084",
+        "song_link": "https://open.spotify.com/track/5vcf7SXYuRXiwXxTxRUEkl?si=72e8eb13f4134e40"
+    },
+    {
+        "song_name": "bleachers",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ce1238c571cc3c8df6b363b4",
+        "song_link": "https://open.spotify.com/track/6VI4OmjLh5NBzfdW4INBi1?si=5e52ea1578884891"
+    },
+    {
+        "song_name": "Pity Party",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27396e554b2799b4452e026e20e",
+        "song_link": "https://open.spotify.com/track/7ogl9Bb7CH10MXM6Xxjqv8?si=4e22891c59b34b21"
+    },
+    {
+        "song_name": "Peer Pressure",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273eb9093c64a39b625c6b40d30",
+        "song_link": "https://open.spotify.com/track/1DIp8C00kz2J74eVDiT87J?si=fe4c533ecd7f475a"
+    },
+    {
+        "song_name": "Wake Up, Get Up, Get Out There",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732a061f8cc383443cbb46adf6",
+        "song_link": "https://open.spotify.com/track/4AuZBIN4aeFL9egQldQfRn?si=5b1db83027054f65"
+    },
+    {
+        "song_name": "Last Surprise",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732a061f8cc383443cbb46adf6",
+        "song_link": "https://open.spotify.com/track/4cPnNnTMkJ6soUOUzEtmcp?si=09d8f8fd37034d51"
+    },
+    {
+        "song_name": "Mom Jeans",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27396e554b2799b4452e026e20e",
+        "song_link": "https://open.spotify.com/track/53KffDSQ4LsdKl99h7Vd8x?si=338c6a8a408649eb"
+    },
+    {
+        "song_name": "Your Looks Can't Save You",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732334f68e2dab4133af62a3bc",
+        "song_link": "https://open.spotify.com/track/2M3xFHhL3G7AMUwCpylUiX?si=013cbdc1c9c04961"
+    },
+    {
+        "song_name": "Stuck Between",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ee1bfbe0ceb5a7043caceb80",
+        "song_link": "https://open.spotify.com/track/45qkFWPAEU4DcWT3697FrP?si=98f1accd6ed444eb"
+    },
+    {
+        "song_name": "Wallows Song",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27389fd0f13a387d117ec64b3d9",
+        "song_link": "https://open.spotify.com/track/0wF1q8GMtzNN5DKF5p5AB4?si=dc003cdcde1a4cc9"
+    },
+    {
+        "song_name": "Oover",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ba6f89eceb0df4d0d263eeb",
+        "song_link": "https://open.spotify.com/track/5Hc0Srowi3gHeUsnEE4LmH?si=6d98ad59f69040ec"
+    },
+    {
+        "song_name": "Architexture",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ba6f89eceb0df4d0d263eeb",
+        "song_link": "https://open.spotify.com/track/0y1bYSM7LTD7ilfjSGj84W?si=f666b1e592564aa9"
+    },
+    {
+        "song_name": "Bob's Pay Pal",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ba6f89eceb0df4d0d263eeb",
+        "song_link": "https://open.spotify.com/track/0r4R3Ayzu9mYt0s0JYkQ2j?si=9a176730cdbf450f"
+    },
+    {
+        "song_name": "Goons",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ba6f89eceb0df4d0d263eeb",
+        "song_link": "https://open.spotify.com/track/6QcREAA5bDN2KSYz4PEqtf?si=f98a342920144f92"
+    },
+    {
+        "song_name": "Lemon Poppyseed",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ba6f89eceb0df4d0d263eeb",
+        "song_link": "https://open.spotify.com/track/5LGgZFllP1Kf7oJI0xGAKp?si=f04c999b679440cc"
+    },
+    {
+        "song_name": "ANTIDOTE",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fe35cbcdce8d696c8d9d8395",
+        "song_link": "https://open.spotify.com/track/7BaIGQIVPqDXVKllMiU7eO?si=29c5a0e767b54a43"
+    },
+    {
+        "song_name": "I'm Just a Buzzkill",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734a463a82b5a0f8f0e9efd371",
+        "song_link": "https://open.spotify.com/track/0VKpBYHBU1dg1xeldJiswJ?si=16876dba5c9b4797"
+    },
+    {
+        "song_name": "VROOM VROOM",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a157c345fbc55d292e425c18",
+        "song_link": "https://open.spotify.com/track/7BKIfBT1VKkBcSsACK1Az8?si=ca57857169f74d43"
+    },
+    {
+        "song_name": "RIGHT WHEN YOU LEFT",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273206df3f48deda459248db465",
+        "song_link": "https://open.spotify.com/track/0gknw00Guoorl3ZYBrk6Yo?si=dc923fc3a8bb4583"
+    },
+    {
+        "song_name": "\u5f85\u3064",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273168ed3d1f85eeff6a3260168",
+        "song_link": "https://open.spotify.com/track/4y3edt6IgDnPCuBffqaaQH?si=6ee8b7a787764099"
+    },
+    {
+        "song_name": "BLOODY STREAM",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731f254fca2096ecec14c9ef95",
+        "song_link": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw?si=d6801db769cb4757"
+    },
+    {
+        "song_name": "Swear to My Bones",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732a061f8cc383443cbb46adf6",
+        "song_link": "https://open.spotify.com/track/1Jg6vRYtSbnWzrQAf614p9?si=f7aa035cf0bf4d0c"
+    },
+    {
+        "song_name": "Sweet Hibiscus Tea",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737f3649e089acda8269f9a68f",
+        "song_link": "https://open.spotify.com/track/4ZUv5GgKcziw6ZjyxUfudU?si=0136c2cea1ac48d4"
+    },
+    {
+        "song_name": "never tell u",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732dcd0a3ac45c51e1573681bc",
+        "song_link": "https://open.spotify.com/track/3atVvRPnWA23jRDgdg9bB6?si=16bff44a814b409f"
+    },
+    {
+        "song_name": "Best Tears",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a098fc384ce26dde900c1269",
+        "song_link": "https://open.spotify.com/track/7nF74JcG12aaD8lV9SJVTu?si=268ae65e46754c1b"
+    },
+    {
+        "song_name": "Tell Me You Know",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273bb399d4fe50751f2bd3e9c85",
+        "song_link": "https://open.spotify.com/track/7v0EsDFDBpCgmIruSQTUNZ?si=2ef37acd47334be1"
+    },
+    {
+        "song_name": "Orbit",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733293d9cb85be16d54447ee65",
+        "song_link": "https://open.spotify.com/track/4jB5OIHRWwiBQAQ81bp6Rj?si=0fbc973f68f54ee7"
+    },
+    {
+        "song_name": "FIND OUT THE HARD WAY",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273440c4f8748e6ea7e8716f197",
+        "song_link": "https://open.spotify.com/track/3pizWVgN68SuzQhCbM3Ezw?si=cac93417bb9845da"
+    },
+    {
+        "song_name": "You Were Perfect & I'm Sorry",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27369626711ac7aada4586e7e3f",
+        "song_link": "https://open.spotify.com/track/1fePsTHhGgbQBi2Nrzvnh1?si=ccd2bc5dd603450e"
+    },
+    {
+        "song_name": "It's Cool",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27323f13bdfe0077ead7165ac6a",
+        "song_link": "https://open.spotify.com/track/5pi6ZCx0bTucAltIvomExp?si=7c198fe8a05543ec"
+    },
+    {
+        "song_name": "Chopsticks and Champagne",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733a0cfeaff08dee7c7170de67",
+        "song_link": "https://open.spotify.com/track/3vdkVck5weMuCg93Xxnhfq?si=c9235942bbac42c2"
+    },
+    {
+        "song_name": "Shut Up: It's Showtime!",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c858102d765a489d817a2175",
+        "song_link": "https://open.spotify.com/track/4D8fZq7ZCdY5AjCMMDVUzL?si=2d67cd2f41284e1d"
+    },
+    {
+        "song_name": "Sweater Song",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738e05741c1f98bab13a61ba36",
+        "song_link": "https://open.spotify.com/track/6UcWRPLPSjJUHA3mA5jgQM?si=e92341af115b4eed"
+    },
+    {
+        "song_name": "Hey Me",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731cbc4d71c3b5028618656f10",
+        "song_link": "https://open.spotify.com/track/7bJqTzR3U1680e0qiT5u9J?si=2a4e542013d3482c"
+    },
+    {
+        "song_name": "Smokey Eyes",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273090e771c7475277ced447b87",
+        "song_link": "https://open.spotify.com/track/6nStFBb5DgiShZMXdyxgeo?si=f23ce7a0f0484427"
+    },
+    {
+        "song_name": "Big Sad",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27396e554b2799b4452e026e20e",
+        "song_link": "https://open.spotify.com/track/7epRhGT3VF7HCWBhGeJQLV?si=456b0d02c8af4835"
+    },
+    {
+        "song_name": "Beef Shawarma",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736dbdcd1a5735f472d76d6f4d",
+        "song_link": "https://open.spotify.com/track/02D6cijG6rJtviKRxUJ3Hz?si=0946aa32a5694ae4"
+    },
+    {
+        "song_name": "Car Crash",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273537f0cc27d06681a55dc38e8",
+        "song_link": "https://open.spotify.com/track/2tlJ22iQwiO1CWBQSma23n?si=8ad004b4f6154174"
+    },
+    {
+        "song_name": "Static",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273aaf00c3ddc870592ac8bb9a4",
+        "song_link": "https://open.spotify.com/track/1gCLyX2BjPbwsF6d2GTGuK?si=56e178b0348b4cfd"
+    },
+    {
+        "song_name": "Burn",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c15bc970a6b468c6db2e6556",
+        "song_link": "https://open.spotify.com/track/6G3LoX3IXO4RGct59TYMTX?si=36309c18b2684f67"
+    },
+    {
+        "song_name": "Chug Jug With You (Number One Victory Royale)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730ec9dd68294c0c5598c9a240",
+        "song_link": "https://open.spotify.com/track/15RSD04RKmM1fjrBONNtqK?si=7224e38de202450a"
+    },
+    {
+        "song_name": "Never Wanna Fall in Love With U",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273bd1c9a4ca1ad74204e10699d",
+        "song_link": "https://open.spotify.com/track/5w7LSuYZNCeCpi2Ytisska?si=04ea58d088824fc9"
+    },
+    {
+        "song_name": "Outset Island",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27380853849d084541cb5297311",
+        "song_link": "https://open.spotify.com/track/2XH8XtE6svadUFcAzFmPlH?si=53a4f978c79d400a"
+    },
+    {
+        "song_name": "The Title Track",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273c5547296da4279c0f3a93cc9",
+        "song_link": "https://open.spotify.com/track/6hd9PsMDYaBEkQOjq6F3XH?si=65c0767f09b64720"
+    },
+    {
+        "song_name": "Cytoplasm",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2733184c986cf543ce2d8195d0d",
+        "song_link": "https://open.spotify.com/track/1ohBkAe1D8wOCiXJpvg4Yd?si=6ed3cbd5ec0249ae"
+    },
+    {
+        "song_name": "Blueberry Pancakes",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27366f759c08f6d6b29dc40e6db",
+        "song_link": "https://open.spotify.com/track/2JzXePsrqI2KAaBC2GDecb?si=bb9125f19c674ed4"
+    },
+    {
+        "song_name": "Any Worze",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b9be7bde44c715c30a0b1802",
+        "song_link": "https://open.spotify.com/track/4btQgw9CvaU5Bt93d2HbBs?si=51c3d362355e4f4b"
+    },
+    {
+        "song_name": "Heart of a Dancer",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a098fc384ce26dde900c1269",
+        "song_link": "https://open.spotify.com/track/0P7jF9A5zTHfiuxClJRb8r?si=b3a374d44a264dc6"
+    },
+    {
+        "song_name": "Goofy Goober Rock",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27337dcc623f72b6d492f56f675",
+        "song_link": "https://open.spotify.com/track/3DsmPgWUf1xMxOwhhXVOHx?si=7ec9b48878774ce5"
+    },
+    {
+        "song_name": "Feed My Ego",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273200dc71c364b9af9e095abc7",
+        "song_link": "https://open.spotify.com/track/3ycewXem1KO0Wmq0EuqXgZ?si=0aee0a83684a439d"
+    },
+    {
+        "song_name": "Grim Reaper",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f5a6ecd0e53cc0d8d3b866a8",
+        "song_link": "https://open.spotify.com/track/4RUDNRnv25LuMjXFJ6Q7tP?si=bc9a9573ae6a401d"
+    },
+    {
+        "song_name": "Mostly Dead",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734a1b2f7a21e353ff44abc3c3",
+        "song_link": "https://open.spotify.com/track/28tdZG6YDElCR8AAJmqEx4?si=25804e2a46cd4c56"
+    },
+    {
+        "song_name": "Rock Star Skinny",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27305b14580ebd67f21c7fd68e0",
+        "song_link": "https://open.spotify.com/track/65tObqreCtRiTJW8dUjIdI?si=e2f664f16b27429b"
+    },
+    {
+        "song_name": "Fly in My Room",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273fb25bad5edb45896338ced98",
+        "song_link": "https://open.spotify.com/track/6Y2AlTIl0iILeCt7XcZHUM?si=9bdf5015b7414c60"
+    },
+    {
+        "song_name": "Falling in a Dream",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273733effc995e422982de9d3eb",
+        "song_link": "https://open.spotify.com/track/3vjy2Guv89g2GDn4DJl53G?si=f2eb35d8a96f4b57"
+    },
+    {
+        "song_name": "Moth Man",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732f26605e70f364701d44f691",
+        "song_link": "https://open.spotify.com/track/6efrNjO7qLfIcvdSa81J86?si=f85b0603a4b04b6a"
+    },
+    {
+        "song_name": "girl in blue",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f810068e744906b8cbc29fd5",
+        "song_link": "https://open.spotify.com/track/29ftVo3C2fq2phOEjJkTYm?si=34e5b5cbfa864aa5"
+    },
+    {
+        "song_name": "Favorite Poison",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738ac403df230be97f0d50eb31",
+        "song_link": "https://open.spotify.com/track/6JsAootlXP63bzFJK9gNsv?si=851349160cca4372"
+    },
+    {
+        "song_name": "Romance Is Boring",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732e1579b5fb74545cf032b747",
+        "song_link": "https://open.spotify.com/track/79jQsuUX9NAaVXKTXZ2DLJ?si=e1724ca1e44b4144"
+    },
+    {
+        "song_name": "STONE OCEAN",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736411e0df4943de364680dfd8",
+        "song_link": "https://open.spotify.com/track/538rTRGRJqV1L0P8DiSN4V?si=868877db24d24d6e"
+    },
+    {
+        "song_name": "I Wish",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273107ec8cc91c8e076d778a5da",
+        "song_link": "https://open.spotify.com/track/3LklW07tvdx2AHsgfi1Mng?si=7054bf5e4cbc4551"
+    },
+    {
+        "song_name": "404",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f0835de9f055fde54e0d01d2",
+        "song_link": "https://open.spotify.com/track/3qrcYLF6kHmpKwP2zlzWz3?si=f98abc6ec5f34505"
+    },
+    {
+        "song_name": "The Edge",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e409359ad17f1a80f6493e47",
+        "song_link": "https://open.spotify.com/track/3V7fPYLX3zQB2c0h5GGVoK?si=d8015bf135454ff6"
+    },
+    {
+        "song_name": "Wannabe, Pt. 2",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738c71e89f4e16af9ead309687",
+        "song_link": "https://open.spotify.com/track/1CYHCG4pg4XI8PpWVFrNHP?si=fabaaaf0067c45f3"
+    },
+    {
+        "song_name": "Are We Moving Too Fast?",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2736021a71baccad2400227358c",
+        "song_link": "https://open.spotify.com/track/2wKpC6DZxEHXEG8qpNXm9B?si=7954673e8df2485a"
+    },
+    {
+        "song_name": "Clusterhug",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737fcfc3b95fedf798311db9d7",
+        "song_link": "https://open.spotify.com/track/65yrKuYdBYsMA1ItIngmjc?si=1c3615cc29644768"
+    },
+    {
+        "song_name": "Deadbeat Boulevard",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27307d74bde9b62f646ada51c4c",
+        "song_link": "https://open.spotify.com/track/1O0x15ewaQBwArgdXYjtEy?si=dc83f37e642f4500"
+    },
+    {
+        "song_name": "chase",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737c5aec47f6ffd05b073e288d",
+        "song_link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy?si=719b27ba2f454916"
+    },
+    {
+        "song_name": "bedroom community",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273382ddf73e0132cecf399c718",
+        "song_link": "https://open.spotify.com/track/4HJc004qYXE9zsG6PfTFFj?si=46a6cc1f75444827"
+    },
+    {
+        "song_name": "OhNo!",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273254a39d853977bd342637904",
+        "song_link": "https://open.spotify.com/track/37JoRcYtA30gqhRc8wCOQj?si=367ea9b7ea704790"
+    },
+    {
+        "song_name": "Grand Romantic Life",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a3e2ab8ea0ef8054bfe90371",
+        "song_link": "https://open.spotify.com/track/2sL9oNbbcToqV7CKnpHUzm?si=7e1f828e63c54ae7"
+    },
+    {
+        "song_name": "I'm Not Ok",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273861da3aeff234f966aec642f",
+        "song_link": "https://open.spotify.com/track/17weS3aO2oaGYJ9Q9yM56X?si=57e393139fc64262"
+    },
+    {
+        "song_name": "Cannibal Queen",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e8a537f3bdcf99fbc62e65c2",
+        "song_link": "https://open.spotify.com/track/7BMWunZCzpUdESUgWSuNRa?si=7ce4b80094264d4b"
+    },
+    {
+        "song_name": "Ibuprofen",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2737d608fb62347152c41808ede",
+        "song_link": "https://open.spotify.com/track/1NePKOsLO1wmaDEm4mP7gX?si=a8e66f4a698f443f"
+    },
+    {
+        "song_name": "Fairhaven Station",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27320350c2a12d9e0e1464b51d0",
+        "song_link": "https://open.spotify.com/track/6Kcf9oi1JDaobtwFdjLGZJ?si=d69d1ab75e9746f7"
+    },
+    {
+        "song_name": "Flight of the Crows",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27323bd19cb710785f075406316",
+        "song_link": "https://open.spotify.com/track/0gW6KLC4W6vChWUHucb69N?si=6d3e402bc5e449a9"
+    },
+    {
+        "song_name": "Under My Skin",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273b7d428e7e34fe63e968bf866",
+        "song_link": "https://open.spotify.com/track/5oiZiF3fBLHqgTDaH0Pj7M?si=a3a86ed195d74486"
+    },
+    {
+        "song_name": "Crush",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27391c3d4d37cf62bfcdcae26a4",
+        "song_link": "https://open.spotify.com/track/3cxCHL46mKbWPlceY7xy0U?si=b13b55f9d0194aa4"
+    },
+    {
+        "song_name": "Passing Through (Can't the Future Just Wait)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27313e94987a8b5fa5b0161babc",
+        "song_link": "https://open.spotify.com/track/2lXqwlG8za1sWKgHRwEiEC?si=273ef52516fb46a4"
+    },
+    {
+        "song_name": "Loser",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27344d62175e24194fa6df09e65",
+        "song_link": "https://open.spotify.com/track/2RQOjviyKyZg52Rh3GztYU?si=eb1d0d75d3004d7b"
+    },
+    {
+        "song_name": "Disco! in the Panic Room",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273288985f8e63d4fa5aa151758",
+        "song_link": "https://open.spotify.com/track/2Gyeq3AvGoOadNFi0wCW4e?si=2299b0ba6d8e4917"
+    },
+    {
+        "song_name": "\u2026well, better than the alternative",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27332a57eb1fae94aa3fed0c49b",
+        "song_link": "https://open.spotify.com/track/51q8dtQBsoDWAMEcGhKsXa?si=2aa5db7b2fed46b4"
+    },
+    {
+        "song_name": "Dancing",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27328c5e48ec70c2c05db73b730",
+        "song_link": "https://open.spotify.com/track/7zmeXCXod5vtPoSbDEwvFJ?si=32c6423910214f46"
+    },
+    {
+        "song_name": "Cigarette Ahegao",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273512ced983959d4b2e259e907",
+        "song_link": "https://open.spotify.com/track/6UYJYgY8VRo6mKrhgTe1CF?si=b3f3d16f51c04b93"
+    },
+    {
+        "song_name": "Devil Town",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739ed6b04a8fe894a9204630f6",
+        "song_link": "https://open.spotify.com/track/0vf2eBw2inhl8y61cYQMv2?si=bcf8465b27d54211"
+    },
+    {
+        "song_name": "Baby Hotline",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a5566f88ef20c171cee29578",
+        "song_link": "https://open.spotify.com/track/1R8kvV2AgNPCA2Pp4Im1Ao?si=970bb1e595b44167"
+    },
+    {
+        "song_name": "Sweet Tooth",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2739aff38f63984dd93cd1d750b",
+        "song_link": "https://open.spotify.com/track/6TCmU4U7Ooqep96bnYx5lH?si=59d9399ebc3a4fb5"
+    },
+    {
+        "song_name": "Drifting",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27331f2bc61e22637b0e67e1fe5",
+        "song_link": "https://open.spotify.com/track/077S0z1PoE8JVsWDwpzhkH?si=1d0145d051f440e2"
+    },
+    {
+        "song_name": "I / Me / Myself",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27332a57eb1fae94aa3fed0c49b",
+        "song_link": "https://open.spotify.com/track/1lqj3wgPj8gHCdq46hUjvr?si=d370df0c6d414f1c"
+    },
+    {
+        "song_name": "I Earn My Life",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ae390841cf7a97bf3a59bb5d",
+        "song_link": "https://open.spotify.com/track/4RI2XoSY5KiiDshVhA9Khe?si=dc569b580ea244bd"
+    },
+    {
+        "song_name": "Friendly Neighborhood Poltergeist",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f335908a990321b986ced662",
+        "song_link": "https://open.spotify.com/track/7uncgy1DHcixuyZ3YIEUEi?si=87ac1788dd714590"
+    },
+    {
+        "song_name": "Like or Like Like",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273e8a537f3bdcf99fbc62e65c2",
+        "song_link": "https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD?si=677c69db814c4e24"
+    },
+    {
+        "song_name": "Here Comes The Sun - Remastered 2009",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
+        "song_link": "https://open.spotify.com/track/6dGnYIeXmHdcikdzNNDMm2?si=05cbdd95a810452f"
+    },
+    {
+        "song_name": "Marlboro Nights",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27398392b90e6272a7c529eba12",
+        "song_link": "https://open.spotify.com/track/755inykyaG4w22GWAsA3MX?si=0c80f6e282f74785"
+    },
+    {
+        "song_name": "Nomu",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730cd731a1f26b2e2656aa3d04",
+        "song_link": "https://open.spotify.com/track/4AzWYzYn4fc7NQ6AQJ9l9J?si=97cbc01afb164769"
+    },
+    {
+        "song_name": "She Wants Me (To Be Loved)",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734ea27afa2c0edf750e6a4e73",
+        "song_link": "https://open.spotify.com/track/0owmJNkGcGNq4hb6qt3ufd?si=3268f140f0be48fa"
+    },
+    {
+        "song_name": "Witches",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273996801eeb426727ce520b258",
+        "song_link": "https://open.spotify.com/track/0rh55ZP9egA7YoAgzDEF5K?si=066a3156597d4fea"
+    },
+    {
+        "song_name": "Infinitesimal",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27373eef2e5d5c258e5ed454c91",
+        "song_link": "https://open.spotify.com/track/4INlfWglM5I1CiNRpR8Krd?si=639e8eef3ced4bb3"
+    },
+    {
+        "song_name": "So Alright, Cool, Whatever",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a098fc384ce26dde900c1269",
+        "song_link": "https://open.spotify.com/track/5NxC33tgrysAEqc62yukdT?si=4f60139b5f1e4134"
+    },
+    {
+        "song_name": "Dance With Me",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273614e6b31a4d37213456d4299",
+        "song_link": "https://open.spotify.com/track/6rdveaxn9mg8gSeYhxyLlF?si=78dd7d94bbd243e8"
+    },
+    {
+        "song_name": "Action Movie Hero Boy",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735d2f39265b6ffeebcae4bfaf",
+        "song_link": "https://open.spotify.com/track/7I1uAzqqdNVUptxlHPj9pZ?si=50926861d91e455d"
+    },
+    {
+        "song_name": "Alchemist",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730cd731a1f26b2e2656aa3d04",
+        "song_link": "https://open.spotify.com/track/158OK6TQSb8xo1MIJSdxb1?si=31cda873dd724b12"
+    },
+    {
+        "song_name": "Hey, Kid!",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738e05741c1f98bab13a61ba36",
+        "song_link": "https://open.spotify.com/track/5T3zeQPTvGI9BcFn1Wy0Cz?si=2cb77b0baa3448e6"
+    },
+    {
+        "song_name": "Jaws",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27361b3be79f762377a297b9e8c",
+        "song_link": "https://open.spotify.com/track/08YAU8YEzjXbPMBhuwwNjr?si=bc84bbdd48eb4db0"
+    },
+    {
+        "song_name": "Cabinet Man",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ae390841cf7a97bf3a59bb5d",
+        "song_link": "https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj?si=593b60757c8a4bd7"
+    },
+    {
+        "song_name": "cold weather",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273382ddf73e0132cecf399c718",
+        "song_link": "https://open.spotify.com/track/50u2y4zgROMZq2db8Qx94B?si=438fff5772ad44f4"
+    },
+    {
+        "song_name": "on the move",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27342b669f253bbc8ae9c49041e",
+        "song_link": "https://open.spotify.com/track/2DBnavN8wezUzjkq86PdqA?si=191267d7d4804c94"
+    },
+    {
+        "song_name": "My Trains",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27361b3be79f762377a297b9e8c",
+        "song_link": "https://open.spotify.com/track/2ZDyf27V6u99YgChCffKSy?si=8e6e78549b4245e0"
+    },
+    {
+        "song_name": "Soft Fuzzy Man",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ae390841cf7a97bf3a59bb5d",
+        "song_link": "https://open.spotify.com/track/6gh78DdZtoLjnMs9I1Jkam?si=d944e7d69c12446b"
+    },
+    {
+        "song_name": "Bill Watterson",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273953ce93a8770717f4e067762",
+        "song_link": "https://open.spotify.com/track/3OYft1tm3KCBGIyCSuX35y?si=65d1266854c04354"
+    },
+    {
+        "song_name": "Knife Fight",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273953ce93a8770717f4e067762",
+        "song_link": "https://open.spotify.com/track/1TDeYPC9ZJv2XE9E9zVQN7?si=b11aa2e5700b47d5"
+    },
+    {
+        "song_name": "A Mask of My Own Face",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27361b3be79f762377a297b9e8c",
+        "song_link": "https://open.spotify.com/track/6ibbHAoBrdqJxo345QGumd?si=9c0eabb2c58946af"
+    },
+    {
+        "song_name": "Fine",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735d2f39265b6ffeebcae4bfaf",
+        "song_link": "https://open.spotify.com/track/2GlV9w8oHSQdiPPk9lxqlp?si=a8802193b4ed4b7f"
+    },
+    {
+        "song_name": "Neverending Hum",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735d2f39265b6ffeebcae4bfaf",
+        "song_link": "https://open.spotify.com/track/3WiYh9i71uTyRzG8W2DxLC?si=b8c531e49fa54af0"
+    },
+    {
+        "song_name": "Two Trucks",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27361b3be79f762377a297b9e8c",
+        "song_link": "https://open.spotify.com/track/1s5A0u1dnAeVNur5nPkCpD?si=2ed69b0768b545cd"
+    },
+    {
+        "song_name": "Touch-Tone Telephone",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273ae390841cf7a97bf3a59bb5d",
+        "song_link": "https://open.spotify.com/track/1tmRlF5pFo8G5OfJYUjWrR?si=ea82a109a4f946c3"
+    },
+    {
+        "song_name": "The Ultimate Showdown of Ultimate Destiny",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735d2f39265b6ffeebcae4bfaf",
+        "song_link": "https://open.spotify.com/track/0hgLHFyN9u3WqkK2ofpuUX?si=cac7e6491804459d"
+    },
+    {
+        "song_name": "Something Super Sweet",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273f335908a990321b986ced662",
+        "song_link": "https://open.spotify.com/track/7byGwLkiIzJdHOZKZMS8nd?si=818f0e1fabf64758"
+    },
+    {
+        "song_name": "eyes blue or brown, can't remember",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2738102b8b3461a3fa4b6f57cbb",
+        "song_link": "https://open.spotify.com/track/3VOgOT6SNjrRjhjuisphY7?si=824037f05f2a488d"
+    },
+    {
+        "song_name": "Alleycat",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2732a061f8cc383443cbb46adf6",
+        "song_link": "https://open.spotify.com/track/3nodmn9VnmojWWebVUpwff?si=939adc0da1f84c20"
+    },
+    {
+        "song_name": "Stagestruck",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273caf1595932f3342aff204fa6",
+        "song_link": "https://open.spotify.com/track/7uYO4X2kUjjuY4hkdnblmW?si=705c56a30c9d409c"
+    },
+    {
+        "song_name": "everything sucks",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2730a47a8c37f83710d4ce75362",
+        "song_link": "https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK?si=86b30c3e5cd54989"
+    },
+    {
+        "song_name": "Oh Yeah, You Gonna Cry?",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273287a30c3d4309d7d50ec7ed9",
+        "song_link": "https://open.spotify.com/track/1jas4QjqGPF9jIYukRMKke?si=a9d11db3f7d24226"
+    },
+    {
+        "song_name": "Model Buses",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273287a30c3d4309d7d50ec7ed9",
+        "song_link": "https://open.spotify.com/track/2XHa3OK2B1oa5tqa5Sksc1?si=6ca5c8469c2b4359"
+    },
+    {
+        "song_name": "Concrete",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273287a30c3d4309d7d50ec7ed9",
+        "song_link": "https://open.spotify.com/track/1ESrGv8T855RXBQonIuL4l?si=a3ef411c14e14aa8"
+    },
+    {
+        "song_name": "Perfume",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273287a30c3d4309d7d50ec7ed9",
+        "song_link": "https://open.spotify.com/track/3Fn9orcpHw3TuqfB2NmZGC?si=51d2e1986c2147a8"
+    },
+    {
+        "song_name": "You'll Understand When You're Older",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273287a30c3d4309d7d50ec7ed9",
+        "song_link": "https://open.spotify.com/track/6Jmcp9lvqThYqwJc033uWS?si=0954aa1397ae41b3"
+    },
+    {
+        "song_name": "The Fall",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273287a30c3d4309d7d50ec7ed9",
+        "song_link": "https://open.spotify.com/track/4HAKeNeh6pY1y0uHyrUyUU?si=cec0302300d345d3"
+    },
+    {
+        "song_name": "It's All Futile! It's All Pointless!",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273287a30c3d4309d7d50ec7ed9",
+        "song_link": "https://open.spotify.com/track/6letGsy9pQEAiVt0VLJIWg?si=406f36c47fc644cf"
+    },
+    {
+        "song_name": "recollections",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b27383e81e17ba04272c9a78ea2b",
+        "song_link": "https://open.spotify.com/track/4XRmrU3tdwjrvqiHWEMcG7?si=0bf888caffd4416e"
+    },
+    {
+        "song_name": "Dawn Amble",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2731de09eb8a1ac818ce0aa6fd2",
+        "song_link": "https://open.spotify.com/track/32v0Ty5SHe6kPMW0NlOpkh?si=a9427775d6ec447d"
+    },
+    {
+        "song_name": "Cursed Night",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b273a456b9cd4f0802219cb7d898",
+        "song_link": "https://open.spotify.com/track/5w2OzFwcgTjQ5bhk50wnkp?si=33e7183555334fc2"
+    },
+    {
+        "song_name": "Dancing in My Room",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c",
+        "song_link": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX?si=856aa239f62b45ca"
+    },
+    {
+        "song_name": "Taunt",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734d45507688e64ea6bfb98068",
+        "song_link": "https://open.spotify.com/track/0r3QJbwBuR9UL0ai5qDTw7?si=185b50c623ea4362"
+    },
+    {
+        "song_name": "Sex Sells",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734d45507688e64ea6bfb98068",
+        "song_link": "https://open.spotify.com/track/6ShHxD0hoJSXajmcpQ5Ri8?si=682204a2251a45ae"
+    },
+    {
+        "song_name": "One Day",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734d45507688e64ea6bfb98068",
+        "song_link": "https://open.spotify.com/track/0IUprcNjE2hDtlvY8rq2W9?si=44c6fde096784e6f"
+    },
+    {
+        "song_name": "Cause for Concern",
+        "album_cover": "https://i.scdn.co/image/ab67616d0000b2734d45507688e64ea6bfb98068",
+        "song_link": "https://open.spotify.com/track/0HaNrvszmWl5vIwKuADD5Z?si=7275a904105d4c3b"
     }
 ]

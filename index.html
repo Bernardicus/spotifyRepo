@@ -3,34 +3,106 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Spotify Repo</title>
+    <title>Song List</title>
+    <style>
+        @font-face {
+            font-family: 'CircularBlack';
+            src: url('circular-black.ttf') format('truetype');
+            font-weight: 900;
+            font-style: normal;
+        }
+        body {
+            background-color: #121212; /* Example light gray */
+        }
+        .top-band {
+            display: flex;
+            justify-content: center;  /* Centers horizontally */
+            align-items: center;
+            width: 100%;
+            height: 120px;  /* Adjust the height as needed */
+            background: linear-gradient(to top, #121212, #4710df);  /* Blue to purple gradient */
+        }
+        .title-bar {
+            text-align: center;
+        }
+        #search-bar {
+            font-family: 'CircularBlack', sans-serif;
+            padding: 10px;
+            margin: 10px;
+            font-size: 16px;
+            width: 50%;
+            border: 2px solid #121212; /* White border color */
+            border-radius: 5px; /* Rounded corners (optional) */
+            background-color: #202020; /* Dark background color */
+            color: #fff; /* White text color */
+        }
+
+        #search-bar:focus {
+            border-color: #1025df; /* Purple outline when focused */
+            background-color: #303030; /* Slightly lighter background on focus */
+        }
+        #content {
+            padding: 20px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Song List</h1>
+    <div class="top-band">
+        <div class="title-bar">
+            <h2 style="color: #ffffff; font-family: 'CircularBlack', sans-serif; font-size: 35px;">Spotify Repo</h2>
+        </div>
+    </div>
+    <input type="text" id="search-bar" placeholder="⌕ Search for a song..." oninput="searchSite()" />
     <div id="content">
         <!-- Songs will be displayed here -->
     </div>
 
     <script>
+        let songsData = [];
+
         // Fetch the JSON file and process it
         fetch('songs.json')
             .then(response => response.json())
             .then(data => {
-                const contentDiv = document.getElementById('content');
-                data.forEach(song => {
-                    const songDiv = document.createElement('div');
-                    songDiv.innerHTML = `
-                        <h2>${song.song_name}</h2>
-                        <img src="${song.album_cover}" alt="${song.song_name} album cover" width="100">
-                        <p><a href="${song.song_link}" target="_blank">Listen to the song</a></p>
-                    `;
-                    contentDiv.appendChild(songDiv);
-                });
+                songsData = data; // Store the data
+                displaySongs(data); // Display all songs initially
             })
             .catch(error => {
                 console.error('Error loading the JSON file:', error);
                 document.getElementById('content').innerHTML = 'Failed to load the data.';
             });
+
+        // Display songs in the content div
+        function displaySongs(songs) {
+            const contentDiv = document.getElementById('content');
+            contentDiv.innerHTML = ''; // Clear the current content
+
+            songs.forEach(song => {
+                const songDiv = document.createElement('div');
+                songDiv.innerHTML = `
+                    <a href="${song.song_link}" target="_blank" style="text-decoration: none; color: inherit;">
+                        <div style="display: flex; align-items: center; gap: 10px; padding: 8px 0;">
+                            <img src="${song.album_cover}" alt="${song.song_name} album cover" width="50">
+                            <h2 style="margin: 0; color: #FFFFFF; font-family: 'CircularBlack', sans-serif; font-size: 20px;">${song.song_name}</h2>
+                        </div>
+                    </a>
+                `;
+                contentDiv.appendChild(songDiv);
+            });
+        }
+
+        // Function to search and filter songs based on the query
+        function searchSite() {
+            const query = document.getElementById('search-bar').value.toLowerCase();
+
+            // Filter songs based on the song name matching the search query
+            const filteredSongs = songsData.filter(song => 
+                song.song_name.toLowerCase().includes(query)
+            );
+
+            // Display the filtered songs
+            displaySongs(filteredSongs);
+        }
     </script>
 </body>
 </html>
