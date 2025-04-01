@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Song List</title>
+    <title>Spotify Repo</title>
     <style>
         @font-face {
             font-family: 'CircularBlack';
@@ -12,15 +12,17 @@
             font-style: normal;
         }
         body {
-            background-color: #121212; /* Example light gray */
+            background-color: #121212;
+            margin: 0;
+            padding: 0;
         }
         .top-band {
             display: flex;
-            justify-content: center;  /* Centers horizontally */
+            justify-content: center;
             align-items: center;
             width: 100%;
-            height: 120px;  /* Adjust the height as needed */
-            background: linear-gradient(to top, #121212, #4710df);  /* Blue to purple gradient */
+            height: 120px;
+            background: linear-gradient(to top, #121212, #4710df);
         }
         .title-bar {
             text-align: center;
@@ -31,15 +33,15 @@
             margin: 10px;
             font-size: 16px;
             width: 50%;
-            border: 2px solid #121212; /* White border color */
-            border-radius: 5px; /* Rounded corners (optional) */
-            background-color: #202020; /* Dark background color */
-            color: #fff; /* White text color */
+            border: 2px solid #121212;
+            border-radius: 5px;
+            background-color: #202020;
+            color: #fff;
         }
 
         #search-bar:focus {
-            border-color: #1025df; /* Purple outline when focused */
-            background-color: #303030; /* Slightly lighter background on focus */
+            border-color: #1025df;
+            background-color: #303030;
         }
         #content {
             padding: 20px;
@@ -54,28 +56,25 @@
     </div>
     <input type="text" id="search-bar" placeholder="⌕ Search for a song..." oninput="searchSite()" />
     <div id="content">
-        <!-- Songs will be displayed here -->
     </div>
 
     <script>
         let songsData = [];
 
-        // Fetch the JSON file and process it
         fetch('songs.json')
             .then(response => response.json())
             .then(data => {
-                songsData = data; // Store the data
-                displaySongs(data); // Display all songs initially
+                songsData = data;
+                displaySongs(data);
             })
             .catch(error => {
                 console.error('Error loading the JSON file:', error);
                 document.getElementById('content').innerHTML = 'Failed to load the data.';
             });
 
-        // Display songs in the content div
         function displaySongs(songs) {
             const contentDiv = document.getElementById('content');
-            contentDiv.innerHTML = ''; // Clear the current content
+            contentDiv.innerHTML = '';
 
             songs.forEach(song => {
                 const songDiv = document.createElement('div');
@@ -91,16 +90,11 @@
             });
         }
 
-        // Function to search and filter songs based on the query
         function searchSite() {
             const query = document.getElementById('search-bar').value.toLowerCase();
-
-            // Filter songs based on the song name matching the search query
             const filteredSongs = songsData.filter(song => 
                 song.song_name.toLowerCase().includes(query)
             );
-
-            // Display the filtered songs
             displaySongs(filteredSongs);
         }
     </script>
